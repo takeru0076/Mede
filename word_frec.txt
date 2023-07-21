@@ -1,0 +1,26 @@
+frec_dict = {} (python dictionary)
+
+単語数ループ　0; i; len(corpus_list)
+↓ tokenized(i番目の単語)
+if 		tokenizedがignore_listにあれば、continue
+if 		tokenizedがfrec_dictになければ、frec_dictにtokenizedを追加する。
+else 	frec_dict[token]に1を加算
+return frec_dict
+
+-----------------------------------------------
+
+frec_dict = {} (python dictionary)
+
+loop for word number of corpus_list 
+i = 0 -> len(corpus_list) 
+
+tokenized is corpus_list[i]
+
+if (tokenized is in ignore_list) 
+	continue
+if (tokenized is not in frec_dict)
+	add tokenized to frec_dict
+else 
+	add 1 to frec_dict[token]
+
+Output frec_dict

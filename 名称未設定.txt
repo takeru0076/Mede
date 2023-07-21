@@ -1,0 +1,22 @@
+    corpus_freq  #use the corpus_frequency function to create frequency list
+	nwords #get corpus size for statistical calculations
+	collocate_freq = {} #empty dictionary for storing collocation frequencies
+	r_freq = {} #for hits to the right
+	l_freq = {}  #for hits to the left
+	stat_dict = {} #for storing the values for whichever stat was used
+	target # a string consisting of words to search for a conjunction.
+
+loop:Number of corpora tokenized
+if target not in the text, don't search it for other words 
+    continue
+else: 
+    loop_2: number of text
+       if word == text
+         beginning of left span
+         end = i + right + 1 #end of right span. Note, we have to add 1 because of the way that slices work
+         if the left span goes beyond the text
+            start=0
+          calucurate word frewuency
+         
+calucurate collocation         
+         
