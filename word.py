@@ -2,7 +2,7 @@ import re
 
 import operator
 import math
-
+import spacy
 from numpy import shape
 
 ignore_list = [""," ", "  ", "   ", "    "] #list of items we want to ignore in our frequency calculations
@@ -13,18 +13,14 @@ def corpus_frequency(corpus_list, ignore = ignore_list, calc = 'freq', normed = 
 	for tokenized in corpus_list: #iterate through the tokenized texts
 		if calc == 'range': #if range was selected:
 			tokenized = list(set(tokenized)) #this creates a list of types (unique words)
-			print(tokenized)
 
 		for token in tokenized: #iterate through each word in the texts
-			print(token)
 			if token in ignore_list: #if token is in ignore list
 				continue #move on to next word
 			if token not in freq_dict: #if the token isn't already in the dictionary:
 				freq_dict[token] = 1 #set the token as the key and the value as 1
 			else: #if it is in the dictionary
 				freq_dict[token] += 1 #add one to the count
-
-	print(freq_dict)
 
 	### Normalization:
 	if normed == True and calc == 'freq':
