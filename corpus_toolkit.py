@@ -14,7 +14,6 @@ import math
 #for writing modified corpus files
 import os
 
-
 def write_corpus(dirname,new_dirname,corpus,ending = "txt"):
 	dirsep = os.path.sep
 	name_list = []
@@ -391,16 +390,48 @@ def high_val(stat_dict,hits = 20,hsort = True,output = False,filename = None, se
 #high_list = high_val(corp_freq,output = True)
 #high_val(corp_freq,filename = "top_freq.txt")
 				
-					
-					
-					
-					
-						
-					
-	
-	
+def find_least(dir_name, ending = '.txt', lower = True):
+	print("Input the question corpus file name")
+	q_name = input()
 
+	master_corpus = [] #empty list for storing the corpus documents
+	filenames = glob.glob(dir_name + "/*" + ending) #make a list of all ".txt" files in the directory
 
+	q_file = glob.glob(dir_name + "/" + q_name + '*')
 
+	least = 0
+	key_corpus = {}
 
+	q_freq = corpus_frequency(q_file)
 
+	for filename in filenames: #iterate through the list of filenames
+		if q_name == filename : continue
+		if lower == True:
+			master_corpus = (open(filename, errors = "ignore").read().lower()) #open each file, lower it and add strings to list
+		else:
+			master_corpus = (open(filename, errors = "ignore").read())#open each file, (but don't lower it) and add strings to list
+
+		master_freq = corpus_frequency(master_corpus)
+
+		count_i = 0
+		sum  = 0
+
+		for i in q_freq:
+			count_j = 0
+			for j,v in master_freq.items():
+				if (i == j):
+					sum = sum + v
+				count_j = count_j + 1
+				if (count_j == 19):
+					break;
+			count_i = count_i + 1
+			if(count_i == 19):
+				break
+
+		if(sum < least or least == 0):
+			file = filename
+			least = sum
+		
+	print("Least similar data set is " + file)
+
+	return

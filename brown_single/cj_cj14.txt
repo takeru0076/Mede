@@ -67,7 +67,7 @@ The thyroid-stimulating hormone The name thyroid-stimulating hormone ( TSH ) has
 The hormone has also been called thyrotrophin or thyrotrophic hormone . 
 At the present time we do not know by what biochemical mechanism TSH acts on the thyroid , but for bio-assay of the hormone there are a number of properties by which its activity may be estimated , including release of iodine from the thyroid , increase in thyroid weight , increase in mean height of the follicular cells and increase in the thyroidal uptake of A[fj] . 
 Here we shall restrict discussion to those methods that appear sufficiently sensitive and precise for determining the concentration of TSH in blood . 
-Brown ( 1959 ) has reviewed generally the various methods of assaying TSH , and the reader is referred to her paper for further information on the subject . 
+word ( 1959 ) has reviewed generally the various methods of assaying TSH , and the reader is referred to her paper for further information on the subject . 
 1 . 
 Chemical constitution and physical properties of pituitary tsh As long ago as 1851 it was pointed out by Niepce ( 1851 ) that there is a connection between the pituitary and the thyroid . 
 This connection was clarified by Smith and Smith ( 1922 ) , who showed that saline extracts of fresh bovine pituitary glands could re-activate the atrophied thyroids of hypophysectomised tadpoles . 

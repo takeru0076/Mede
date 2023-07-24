@@ -1,0 +1,20 @@
+各単語の品詞をタグ付けする。/
+ユーザが任意の単語や文字列を選択し、その単語や文字列を文脈に沿って表示する。
+対象の単語に続く品詞パターンを検索できる（例：absolutely + JJ
+各データセットに含まれる同一の品詞パターンの数を数える。
+質問されたデータセットと同一の品詞パターンの数に基づいて、最も類似していないデータセットを特定する。
+最も類似度の低いデータセットを除外することを提案する
+
+tag the part-of-speech (POS) of each word
+allow the user to select any word or string and display the word or string in context
+allow the user to search for POS patterns following the target word, e.g. absolutely + JJ
+count the number of identical POS patterns in each dataset
+identify the least similiar dataset based on the number of identical POS patterns with questionned dataset
+suggest ruling out the least similiar dataset
+
+単語の頻度を数え、リストアップし、並べる
+キーワードの出現頻度のカウント、リスト化、並び替え
+参照コーパスの選択
+各データセットの最初の20語/キーワードに含まれる共有語/キーワードを表示する。
+質問されたデータセットの上位20語/キーワードのうち、共有された語/キーワードの数が最も少ないデータセットに基づいて、最も類似度の低いデータセットを特定する。
+最も似ていないデータセットを除外するよう提案する
