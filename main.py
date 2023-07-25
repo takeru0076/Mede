@@ -44,4 +44,6 @@ ct.high_val(run_upos_collocates_mi,hits = 10) #use high_val function to see top 
 #write tagged corpus files to a folder/directory entitled "word_single_tagged"
 ct.write_corpus(name ,name + "_tagged",word_upos)
 
+ct.display_string(word_lemmatized)
 
+ct.search_pos(word_upos)

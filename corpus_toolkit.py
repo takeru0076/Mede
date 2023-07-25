@@ -13,6 +13,7 @@ import operator
 import math
 #for writing modified corpus files
 import os
+import sys
 
 def write_corpus(dirname,new_dirname,corpus,ending = "txt"):
 	dirsep = os.path.sep
@@ -402,6 +403,8 @@ def find_least(dir_name, ending = '.txt', lower = True):
 	least = 0
 	key_corpus = {}
 
+	q_file = tokenize(q_file)
+	q_file = lemmatize(q_file)
 	q_freq = corpus_frequency(q_file)
 
 	for filename in filenames: #iterate through the list of filenames
@@ -418,12 +421,12 @@ def find_least(dir_name, ending = '.txt', lower = True):
 
 		for i in q_freq:
 			count_j = 0
-			for j,v in master_freq.items():
+			for j,v in master_freq.items() :
 				if (i == j):
 					sum = sum + v
 				count_j = count_j + 1
 				if (count_j == 19):
-					break;
+					break
 			count_i = count_i + 1
 			if(count_i == 19):
 				break
@@ -434,4 +437,67 @@ def find_least(dir_name, ending = '.txt', lower = True):
 		
 	print("Least similar data set is " + file)
 
+	return
+
+def display_string(corpus) :
+	while (True) :
+		flag = True
+		print('')
+		print('Input the word or string you wish to search for (Exit : -1)')
+		search = (input())
+		if (search == '-1') :
+			break
+		if ' ' in search :
+			search = search.split(' ')
+		if (isinstance(search, list) == True) :
+			flag = False
+		for i in range(len(corpus)) :
+			for v in range(len(corpus[i])) :
+				if flag :
+					if search.lower() == corpus[i][v] :
+						for j in range(13) :
+							if (v-6+j < 0 or v-6+j == len(corpus[i])) :
+								break
+							else :
+								print(corpus[i][v-6+j], end=' ')
+						print('')
+				else :
+					for k in range(len(search)) :
+						if (search[k].lower() == corpus[i][v+k]) :
+							if (k == len(search)-1) : 
+								for j in range(13+len(search)-1) :
+									if (v-6+j < 0 or v-6+j == len(corpus[i])) :
+										break
+									else :
+										print(corpus[i][v-6+j], end=' ')
+								print('')
+						else :
+							break
+	return
+
+def search_pos(corpus) :
+	dict1 = {}
+	dict2 = {}
+	while (True) :
+		print('')
+		print('Input the word you wish to search for (Exit : -1)')
+		search = (input())
+		if (search == '-1') :
+			break
+		for i in range(len(corpus)) :
+			for v in range(len(corpus[i])) :
+				if ((search+'_') in corpus[i][v]) : 
+					if (v+1 == len(corpus[i])) :
+						break
+					dict1[corpus[i][v+1]] = 1
+		keys_view = dict1.keys()
+		for i in keys_view :
+			index = i.find('_')
+			pos = i[index+1:]
+			dict2[pos] = 1
+		keys_view = dict2.keys()
+		for i in keys_view :
+			print(i)
+		dict1.clear()
+		dict2.clear()
 	return
