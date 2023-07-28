@@ -1,3 +1,5 @@
+#chatGPT
+#https://chat.openai.com/c/ed981557-3e41-4d83-b7a8-21f96c36c783
 import corpus_toolkit as ct
 import corpus_nlp as tg
 import os
@@ -47,3 +49,10 @@ ct.write_corpus(name ,name + "_tagged",word_upos)
 ct.display_string(word_lemmatized)
 
 ct.search_pos(word_upos)
+
+pos, count = tg.count_pos(word_tokenized, name)
+
+#print(pos)
+#print(count)
+
+ct.pos_least(pos, count, name)

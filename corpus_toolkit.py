@@ -14,6 +14,7 @@ import math
 #for writing modified corpus files
 import os
 import sys
+import shutil
 
 def write_corpus(dirname,new_dirname,corpus,ending = "txt"):
 	dirsep = os.path.sep
@@ -416,6 +417,8 @@ def find_least(dir_name, ending = '.txt', lower = True):
 
 		master_freq = corpus_frequency(master_corpus)
 
+		sorted_dict = dict(sorted(master_freq.items(), key=lambda item: item[1], reverse=True))
+
 		count_i = 0
 		sum  = 0
 
@@ -437,6 +440,18 @@ def find_least(dir_name, ending = '.txt', lower = True):
 		
 	print("Least similar data set is " + file)
 
+	print("Do you want to rule out " + file + "?")
+	print("y / n : ", end = ' ')
+	rep = input()
+	if(rep == "y"):
+		source_file = dir_name + "/" + file
+		destination_file = "removed/" + file
+		shutil.move(source_file, destination_file)
+
+		if os.path.exists(destination_file):
+			print("success to remove file in the removed")
+		else:
+			print("fail to remove file")
 	return
 
 def display_string(corpus) :
@@ -500,4 +515,52 @@ def search_pos(corpus) :
 			print(i)
 		dict1.clear()
 		dict2.clear()
+	return
+
+def pos_least(pos, count, dir) :
+	sum = [0 for i in range(len(pos))]
+	flag = 0
+
+	while True :
+		print("Input the full question corpus file name (Exit = -1)")
+		q_name = input()
+		if q_name == '-1' :
+			return
+		
+		file_list = os.listdir(dir)
+		for num in range(len(file_list)) :
+			if q_name == file_list[num] :
+				index = num
+				flag = 1
+		if flag == 0 :
+			print('does not exist')
+		else :
+			break
+	for i in range(len(pos)) :
+		if index == i :
+			continue
+		for j in range(len(pos[index])) :
+			for k in range(len(pos[i])) :
+				if pos[index][j] == pos[i][k] :
+					sum[i] = sum[i] + abs(count[index][j] - count[i][k])
+
+	max = 0
+	for i in range(len(sum)) :
+		if (max < sum[i]) :
+			file_index = i
+			max = sum[i]
+	print('Least similar data set is ' + file_list[file_index])
+
+	print("Do you want to rule out " + file_list[file_index] + "?")
+	print("y / n : ", end=' ')
+	rep = input()
+	if(rep == "y"):
+		source_file = dir + "/" + file_list[file_index]
+		destination_file = "removed/" + file_list[file_index]
+		shutil.move(source_file, destination_file)
+
+		if os.path.exists(destination_file):
+			print("success to remove file in the removed")
+		else: 
+			print("fail to remove file")
 	return

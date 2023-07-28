@@ -7,7 +7,7 @@ Created on Fri Aug  9 06:22:09 2019
 """
 #version .02 2019-8-9
 #includes a number of minor bug fixes
-
+import os
 import glob
 import spacy #import spacy
 nlp = spacy.load("en_core_web_sm") #load the English model. This can be changed - just make sure that you download the appropriate model first
@@ -79,3 +79,33 @@ def tag_corpus(dirname, ending = ".txt", tp = "upos", lemma = True, lower = True
 #doc = nlp(sample)
 #for x in doc:
 #	print(x.text,x.lemma_x.tag_,x.pos_,x.dep_)
+
+def count_pos(corpus, dir) :
+	pos = [0 for i in range(len(corpus))]
+	count = [0 for i in range(len(corpus))]
+	dict = {}	#counts pos pattern 
+	file_list = os.listdir(dir)
+
+	for num in range(len(corpus)) :
+		cnt = 0
+		for sentence in corpus[num]:
+			doc = nlp(sentence)
+			pos_pattern = tuple(token.pos_ for token in doc)
+
+			if pos_pattern in dict:
+				dict[pos_pattern] += 1
+			else:
+				dict[pos_pattern] = 1
+		
+		pos[num] = [0 for j in range(len(dict))]
+		count[num] = [0 for j in range(len(dict))]
+		print(file_list[num] + ' :')
+		for key, value in dict.items() :
+			pos[num][cnt] = key
+			count[num][cnt] = value
+			cnt = cnt + 1
+			print(key, value)
+		print()
+		dict.clear()
+
+	return pos, count
