@@ -14,6 +14,7 @@ if(os.path.isdir(name) != True):
   sys.exit()
 
 word = ct.load_corpus(name) #read all corpus files
+#print(type(word))
 print(len(word)) #double check that there are 500 files. If not, check your directory (see point 2 above) and check your directory name
 
 word_tokenized = ct.tokenize(word) #tokenize corpus
@@ -23,7 +24,8 @@ word_bigrams = ct.ngrammer(word_tokenized,2) #create bigram version
 word_trigrams = ct.ngrammer(word_tokenized,3) #create trigram version
 
 lemma_freq = ct.corpus_frequency(word_lemmatized) #raw frequency
-ct.high_val(lemma_freq) #use high_val function to see top 20 hits
+#print(lemma_freq)
+#ct.high_val(lemma_freq) #use high_val function to see top 20 hits
 
 ct.find_least(name)
 
@@ -38,10 +40,10 @@ word_upos = tg.tag_corpus(name) #this may take a while. Consider getting some co
 print(len(word_upos)) #check to make sure that there are 500 files here! Otherwise, there is a problem with your directory name OR your working directory!
 
 upos_freq = ct.corpus_frequency(word_upos) #raw frequency
-ct.high_val(upos_freq,hits = 10) #use high_val function to see top 10 hits
+#ct.high_val(upos_freq,hits = 10) #use high_val function to see top 10 hits
 
 run_upos_collocates_mi = ct.collocator(word_upos,"run_VERB") #note that we have to include the appropriate tag in our search
-ct.high_val(run_upos_collocates_mi,hits = 10) #use high_val function to see top 10 hits
+#ct.high_val(run_upos_collocates_mi,hits = 10) #use high_val function to see top 10 hits
 
 #write tagged corpus files to a folder/directory entitled "word_single_tagged"
 ct.write_corpus(name ,name + "_tagged",word_upos)
@@ -50,7 +52,7 @@ ct.display_string(word_lemmatized)
 
 ct.search_pos(word_upos)
 
-pos, count = tg.count_pos(word_tokenized, name)
+pos, count = tg.count_pos(word_lemmatized, name)
 
 #print(pos)
 #print(count)

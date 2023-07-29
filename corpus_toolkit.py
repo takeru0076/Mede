@@ -393,42 +393,65 @@ def high_val(stat_dict,hits = 20,hsort = True,output = False,filename = None, se
 #high_val(corp_freq,filename = "top_freq.txt")
 				
 def find_least(dir_name, ending = '.txt', lower = True):
-	print("Input the question corpus file name")
+	print("Input the question corpus file name without .txt")
 	q_name = input()
+	q_file = (open(dir_name + "/" + q_name + ending, errors = "ignore").read().lower())
+	q_file_list = q_file.split()
 
 	master_corpus = [] #empty list for storing the corpus documents
 	filenames = glob.glob(dir_name + "/*" + ending) #make a list of all ".txt" files in the directory
 
-	q_file = glob.glob(dir_name + "/" + q_name + '*')
+	#print(type(q_file))
 
 	least = 0
 	key_corpus = {}
 
-	q_file = tokenize(q_file)
-	q_file = lemmatize(q_file)
-	q_freq = corpus_frequency(q_file)
+	q_file_tokenized= tokenize(q_file_list)
+	#print(q_file_tokenized)
+	q_file_lemmatized = lemmatize(q_file_tokenized)
+	#print(q_file_lemmatized)
+	q_freq = corpus_frequency(q_file_lemmatized)
+	#print(q_freq)
+	sorted_q_freq = dict(sorted(q_freq.items(), key=lambda item: item[1], reverse=True))
+	#print(sorted_q_freq)
 
 	for filename in filenames: #iterate through the list of filenames
-		if q_name == filename : continue
+		#print(type(filename))
+		if q_name+ending == filename : 
+			#print(filename)
+			continue
 		if lower == True:
 			master_corpus = (open(filename, errors = "ignore").read().lower()) #open each file, lower it and add strings to list
 		else:
 			master_corpus = (open(filename, errors = "ignore").read())#open each file, (but don't lower it) and add strings to list
 
-		master_freq = corpus_frequency(master_corpus)
+		#print(master_corpus) -> ok
+		master_corpus_list = master_corpus.split()
+		#print(type(master_corpus_list))
+		master_tokenized = tokenize(master_corpus_list)
+		master_lemmatized = lemmatize(master_tokenized)
+		master_freq = corpus_frequency(master_lemmatized)
+		#print(master_freq)
 
-		sorted_dict = dict(sorted(master_freq.items(), key=lambda item: item[1], reverse=True))
+		sorted_freq = dict(sorted(master_freq.items(), key=lambda item: item[1], reverse=True))
+		#print(sorted_freq) -> x
+
+		print("top 20 words of " + filename)
+		print()
+		flag = 1
+		for i,v in sorted_freq.items():
+			print(i + ":" + str(v))
+			flag = flag + 1
+			if(flag == 20):
+				break
 
 		count_i = 0
 		sum  = 0
 
-		for i in q_freq:
-			count_j = 0
-			for j,v in master_freq.items() :
+		for i in sorted_q_freq:
+			for j,v in sorted_freq.items() :
 				if (i == j):
 					sum = sum + v
-				count_j = count_j + 1
-				if (count_j == 19):
 					break
 			count_i = count_i + 1
 			if(count_i == 19):
@@ -437,6 +460,7 @@ def find_least(dir_name, ending = '.txt', lower = True):
 		if(sum < least or least == 0):
 			file = filename
 			least = sum
+
 		
 	print("Least similar data set is " + file)
 
@@ -542,13 +566,13 @@ def pos_least(pos, count, dir) :
 		for j in range(len(pos[index])) :
 			for k in range(len(pos[i])) :
 				if pos[index][j] == pos[i][k] :
-					sum[i] = sum[i] + abs(count[index][j] - count[i][k])
+					sum[i] = sum[i] + count[i][k])
 
-	max = 0
-	for i in range(len(sum)) :
-		if (max < sum[i]) :
+	min = sum[0]
+	for i in range(1, len(sum)) :
+		if (min > sum[i]) :
 			file_index = i
-			max = sum[i]
+			min = sum[i]
 	print('Least similar data set is ' + file_list[file_index])
 
 	print("Do you want to rule out " + file_list[file_index] + "?")
