@@ -480,13 +480,13 @@ def find_least(dir_name, ending = '.txt', lower = True):
 
 def display_string(corpus) :
 	while (True) :
-		flag = True
+		flag = True	#word->True, string->False
 		print('')
 		print('Input the word or string you wish to search for (Exit : -1)')
 		search = (input())
 		if (search == '-1') :
 			break
-		if ' ' in search :
+		if ' ' in search :	#If a string is entered
 			search = search.split(' ')
 		if (isinstance(search, list) == True) :
 			flag = False
@@ -498,12 +498,12 @@ def display_string(corpus) :
 							if (v-6+j < 0 or v-6+j == len(corpus[i])) :
 								break
 							else :
-								print(corpus[i][v-6+j], end=' ')
+								print(corpus[i][v-6+j], end=' ')	#show 6 words before the target and 6 after the target word
 						print('')
 				else :
 					for k in range(len(search)) :
 						if (search[k].lower() == corpus[i][v+k]) :
-							if (k == len(search)-1) : 
+							if (k == len(search)-1) : 	#If all words are equal
 								for j in range(13+len(search)-1) :
 									if (v-6+j < 0 or v-6+j == len(corpus[i])) :
 										break
@@ -515,21 +515,26 @@ def display_string(corpus) :
 	return
 
 def search_pos(corpus) :
-	dict1 = {}
-	dict2 = {}
+	dict1 = {}	#all POS patterns following the target word
+	dict2 = {}	#A dictionary that contains the POS pattern following the target word only once.
+	print()
+	print('search for POS patterns following the target word.')
+	print('e.g.')
+	print('absolutely')
+	print('JJ')
 	while (True) :
 		print('')
 		print('Input the word you wish to search for (Exit : -1)')
 		search = (input())
-		if (search == '-1') :
+		if (search == '-1') :	##If -1 is entered, exit
 			break
 		for i in range(len(corpus)) :
 			for v in range(len(corpus[i])) :
 				if ((search+'_') in corpus[i][v]) : 
-					if (v+1 == len(corpus[i])) :
+					if (v+1 == len(corpus[i])) :	#Break if the word is at the end of a sentence
 						break
-					dict1[corpus[i][v+1]] = 1
-		keys_view = dict1.keys()
+					dict1[corpus[i][v+1]] = 1	#Add POS following the word
+		keys_view = dict1.keys()	#Create a List with keys from the dictionary
 		for i in keys_view :
 			index = i.find('_')
 			pos = i[index+1:]
@@ -537,50 +542,57 @@ def search_pos(corpus) :
 		keys_view = dict2.keys()
 		for i in keys_view :
 			print(i)
-		dict1.clear()
+		dict1.clear()	#Clear so as not to affect the next data.
 		dict2.clear()
 	return
 
 def pos_least(pos, count, dir) :
-	sum = [0 for i in range(len(pos))]
-	flag = 0
+	sum = [0 for i in range(len(pos))]	#Sum of POS patterns for each dataset
+	flag = False	#Whether the filename of the input data exists
 
 	while True :
-		print("Input the full question corpus file name (Exit = -1)")
+		print("Input the question corpus file name including extension(Exit = -1)")
 		q_name = input()
-		if q_name == '-1' :
+		if q_name == '-1' :	#If -1 is entered, exit
 			return
 		
 		file_list = os.listdir(dir)
 		for num in range(len(file_list)) :
 			if q_name == file_list[num] :
-				index = num
-				flag = 1
-		if flag == 0 :
+				index = num	#The qestion data is in file_list[index].
+				flag = True
+		if flag == False :
 			print('does not exist')
 		else :
 			break
+
 	for i in range(len(pos)) :
-		if index == i :
+		if index == i :	#If the data is in qestion, move on to the next data.
 			continue
 		for j in range(len(pos[index])) :
 			for k in range(len(pos[i])) :
 				if pos[index][j] == pos[i][k] :
-					sum[i] = sum[i] + count[i][k])
+					sum[i] = sum[i] + count[i][k]	#Add up the same POS patterns that are in the Qestion's data
 
 	min = sum[0]
+	file = 0
+	if index == 0 :
+		min = sum[1]
+		file = 1
 	for i in range(1, len(sum)) :
+		if index == i :
+			continue
 		if (min > sum[i]) :
-			file_index = i
+			file = i
 			min = sum[i]
-	print('Least similar data set is ' + file_list[file_index])
+	print('Least similar data set is ' + file_list[file])
 
-	print("Do you want to rule out " + file_list[file_index] + "?")
+	print("Do you want to rule out " + file_list[file] + "?")	#The following is an operation to exclude data sets with low similarity from the directory
 	print("y / n : ", end=' ')
 	rep = input()
 	if(rep == "y"):
-		source_file = dir + "/" + file_list[file_index]
-		destination_file = "removed/" + file_list[file_index]
+		source_file = dir + "/" + file_list[file]
+		destination_file = "removed/" + file_list[file]
 		shutil.move(source_file, destination_file)
 
 		if os.path.exists(destination_file):

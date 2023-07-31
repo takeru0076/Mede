@@ -1,0 +1,2556 @@
+a	->	a	an
+able	->	able	ability	abler	ablest	ably	abilities	unable	inability
+about	->	about
+above	->	above
+accept	->	accept	acceptability	acceptable	unacceptable	acceptance	accepted	accepting	accepts
+accord	->	accord	accorded	accordance	according	accordingly	accords
+account	->	account	accounted	accounting	accounts	accountant	accountants	accountancy
+accountable	->	accountable	accountability
+across	->	across
+act	->	act	acted	acting	action	actions	acts
+active	->	active	actively	activities	activity
+actor	->	actor	actors
+actress	->	actress	actresses
+actual	->	actual	actually
+add	->	add	added	adding	addition	additional	additive	additions	adds
+address	->	address	addressed	addresses	addressing
+admit	->	admit	admission	admittedly	admits	admitted	admitting
+adopt	->	adopt	adopted	adopting	adoption	adoptions	adopts
+advance	->	advance	advanced	advances	advancement	advancing
+advantage	->	advantage	advantages	disadvantage	disadvantages	advantaging	advantaged	disadvantaged
+adventure	->	adventure	adventures	adventurer	adventurers	adventurous
+affair	->	affair	affairs
+after	->	after	afterwards
+again	->	again
+against	->	against
+age	->	age	aged	ages	aging
+agent	->	agent	agency	agencies	agents
+ago	->	ago
+agree	->	agree	agreed	agreeing	agreement	agreements	agrees	agreeable	disagreements	disagree	disagreeable	disagreed	disagreeing	disagreement	disagrees
+air	->	air
+all	->	all
+allow	->	allow	allowance	allowances	allowed	allowing	allows
+almost	->	almost
+alone	->	alone
+along	->	along
+already	->	already
+also	->	also
+although	->	although
+always	->	always
+among	->	among	amongst
+amount	->	amount	amounted	amounting	amounts
+ancient	->	ancient
+and	->	and
+animal	->	animal	animals
+another	->	another
+answer	->	answer	answered	answering	answers
+any	->	any	anybody	anyhow	anymore	anyone	anything	anyway	anywhere
+appear	->	appear	appearance	appeared	appearing	appears	appearances	disappearances	disappear	disappearance	disappeared	disappearing	disappears
+apply	->	apply	application	applications	applied	applies	applicable	applying	applicant	applicants	applicability
+appoint	->	appoint	appointed	appointing	appointments	appointment	appoints
+april	->	april
+arise	->	arise	arisen	arises	arose	arising
+arm	->	arm	armed	arms	unarmed
+army	->	army	armies
+around	->	around
+arrive	->	arrive	arrival	arrivals	arrived	arrives	arriving
+art	->	art	arts	artist	artistic	artists	artistically
+article	->	article	articles
+as	->	as
+ask	->	ask	asked	asking	asks
+associate	->	associate	associations	association	associating	associates	associated	disassociate	disassociated
+at	->	at
+attack	->	attack	attacked	attacking	attacks
+attempt	->	attempt	attempted	attempting	attempts
+august	->	august
+average	->	average	averaged	averages	averaging
+away	->	away
+b	->	b
+back	->	back	backed	background	backing	backs	backbone	backgrounds	backwards	backward
+bad	->	bad	badly	badness
+ball	->	ball	balls
+bank	->	bank	banked	banker	bankers	banking	banks
+bar	->	bar	bars	barred	barring
+base	->	base	based	bases	basic	basically	basing	basis
+battle	->	battle	battled	battles	battling
+be	->	be	am	are	aren	been	is	isn	re	s	was	wasn	were	weren	being	beings
+bear	->	bear	bearing	bearings	bears	bore	born	borne
+beauty	->	beauty	beautiful	beautifully
+because	->	because
+become	->	become	became	becomes	becoming
+bed	->	bed	bedroom	bedrooms	bedding	beds
+before	->	before
+begin	->	begin	began	beginner	beginners	beginning	beginnings	begins	begun
+behind	->	behind
+believe	->	believe	belief	beliefs	believed	believes	believing	disbelief
+belong	->	belong	belonged	belonging	belongings	belongs
+below	->	below
+beneath	->	beneath
+beside	->	beside	besides
+best	->	best	better
+between	->	between
+beyond	->	beyond
+big	->	big	bigger	biggest	biggish
+bill	->	bill	bills	billed	billing
+bird	->	bird	birds
+black	->	black	blacker	blackest	blackly	blacken	blackness	blacks	blackish
+blood	->	blood	bled	bleed	bleeding	bleeds	bloody
+blow	->	blow	blew	blowing	blows	blown
+blue	->	blue	blueness	bluer	bluest
+board	->	board	boarded	boarding	boards
+boat	->	boat	boats
+body	->	body	bodies	bodily
+book	->	book	books
+both	->	both
+box	->	box	boxes
+boy	->	boy	boyhood	boys
+branch	->	branch	branches	branched	branching
+bread	->	bread
+break	->	break	breaking	breakage	breaks	broke	broken	unbreakable	outbreaks	outbreak	unbroken
+bridge	->	bridge	bridges
+bright	->	bright	brighten	brightened	brightening	brightens	brighter	brightest	brightly	brightness
+bring	->	bring	bringing	brings	brought
+broad	->	broad	broadly	breadth	broader	broadest
+brother	->	brother	brothers	brotherly
+build	->	build	build-up	builders	building	buildings	builds	built
+burn	->	burn	burned	burning	burns	burnt
+business	->	business	businesses	businessmen	unbusinesslike	businesslike	businessman	businesswoman	businesswomen
+but	->	but
+buy	->	buy	bought	buying	buys	buyer	buyers
+by	->	by
+c	->	c
+call	->	call	called	calling	calls
+can	->	can	cannot	cans	canned	canning
+capital	->	capital	capitals
+captain	->	captain	captains
+car	->	car	cars
+care	->	care	cared	careful	carefully	careless	cares	caring	carelessly
+carry	->	carry	carried	carries	carrying
+case	->	case	cases
+castle	->	castle	castles
+catch	->	catch	catches	catching	caught
+cause	->	cause	caused	causes	causing
+centre	->	centre	center	centerist	centerists	centers	centred	centered	central	centralization	centres	centrist	centrists
+certain	->	certain	certainly	certainty	uncertain	uncertainties	uncertainty
+chance	->	chance	chanced	chances	chancing
+change	->	change	changed	changes	changing	unchanged	unchangeable	unchanging
+character	->	character	characteristic	characteristically	characteristics	characterize	characterized	characterization	characterizes	characterise	characterised	characterises	characters
+charge	->	charge	charged	charges	charging
+chief	->	chief	chiefs	chiefly
+child	->	child	children	childish	childhood	childlike
+choose	->	choose	choice	choices	chooses	choosing	chose	chosen
+church	->	church	churches
+circle	->	circle	circled	circles	circling	circular
+city	->	city	cities	citizen	citizens
+claim	->	claim	claimed	claiming	claims	unclaimed
+class	->	class	classed	classes	classing	classify	classifying	classified	classifies	classification	classifications
+clear	->	clear	cleared	clearer	clearest	clearing	clearings	clearly	clearness	clears
+close	->	close	closed	closely	closeness	closer	closes	closest	closure	closing
+cloud	->	cloud	cloudy	clouded	clouds
+coal	->	coal
+coast	->	coast	coasts
+coin	->	coin	coins
+cold	->	cold	colder	coldest	coldly	coldness	colds
+college	->	college	colleges
+colony	->	colony	colonial	colonies	colonials	colonize	colonization	colonized	colonising	colonist	colonists
+colour	->	colour	color	colored	colorful	coloring	colorless	colors	coloured	colourful	colouring	colourless	colours
+come	->	come	came	comes	coming
+command	->	command	commanded	commanding	commands	commander	commanders
+committee	->	committee	committees
+common	->	common	commoner	commonest	commonly	commonness	commons	uncommon	uncommonly
+company	->	company	companies
+complete	->	complete	completed	completely	completion	completions	completes	completeness	completing	incomplete	incompletely
+concern	->	concern	concerned	concerning	concerns	unconcerned
+condition	->	condition	conditional	conditions	unconditional
+consider	->	consider	consideration	considerations	considered	considering	considers	reconsider	reconsidering	reconsideration
+contain	->	contain	contained	container	containers	containing	contains
+content	->	content	contented	contenting	contentment	contents	discontent	discontentment
+continue	->	continue	continuance	continued	continuity	continues	continuing	continuous	continuously
+control	->	control	controlled	controller	controlling	controls	uncontrollable	uncontrollably	uncontrolled
+corn	->	corn
+cost	->	cost	costing	costs	costly
+cotton	->	cotton
+could	->	could	couldn
+council	->	council	councillor	councillors	councilor	councils
+count	->	count	counted	counting	countless	counts	countable	uncountable
+country	->	country	countries
+course	->	course	courses
+court	->	court	courts
+cover	->	cover	covered	covering	coverage	covers	uncover	uncovered	uncovers
+cross	->	cross	crossed	crosses	crossing
+crowd	->	crowd	crowded	crowding	crowds
+crown	->	crown	crowns	crowned	crowning	uncrowned
+cry	->	cry	cried	cries	crying
+current	->	current	currently
+cut	->	cut	cuts	cutting	uncut
+d	->	d
+danger	->	danger	dangerous	dangerously	dangers
+dark	->	dark	darker	darkest	darkness
+date	->	date	dates	dated	dating
+daughter	->	daughter	daughters
+day	->	day	daily	daylight	days
+dead	->	dead	death	deaths
+deal	->	deal	dealer	dealers	dealing	dealings	deals	dealt
+dear	->	dear	dears
+december	->	december
+decide	->	decide	decided	decidedly	decides	deciding	decision	decisions	decisive	undecided
+declare	->	declare	declaration	declarations	declared	declares	declaring
+deep	->	deep	deepen	deepened	deeper	deepest	deeply	depth	depths	deepening
+defeat	->	defeat	defeated	defeats	defeating	undefeated
+degree	->	degree	degrees
+demand	->	demand	demanded	demanding	demands
+department	->	department	departments	departmental
+depend	->	depend	depends	depended	depending	dependant	dependants	dependent
+describe	->	describe	described	describes	describing	description	descriptions	descriptive
+desert	->	desert	deserted	deserting	deserts
+desire	->	desire	desired	desirability	desirable	desires	desiring	undesirable
+destroy	->	destroy	destroyed	destroying	destroys	destruction	destructive
+detail	->	detail	detailed	detailing	details
+determine	->	determine	determination	determined	indeterminate	determinate	determines	determining
+develop	->	develop	developed	developers	developing	development	developments	develops	underdeveloped	undeveloped
+die	->	die	died	dies	dying	undying
+difference	->	difference	differ	differences	different	differs	differing	differently
+difficult	->	difficult	difficulties	difficulty
+direct	->	direct	directed	directing	direction	directions	directly	director	directors	directs	indirect	indirectly
+discover	->	discover	discovered	discoveries	discovering	discovers	discovery
+distance	->	distance	distances	distant	distanced	distancing
+distinguish	->	distinguish	distinguished	distinguishes	distinguishing	distinguishable
+district	->	district	districts
+divide	->	divide	divided	divides	dividing	division	divisions	undivided
+do	->	do	did	didn	does	doesn	doing	don	done
+doctor	->	doctor	doctors	dr
+dog	->	dog	dogs	dogged
+dollar	->	dollar	dollars
+door	->	door	doors	indoors	outdoors
+doubt	->	doubt	doubted	doubtful	doubting	doubtless	undoubtedly	doubts
+down	->	down	downwards
+draw	->	draw	drawing	drawn	draws	drew
+dream	->	dream	dreamed	dreaming	dreams	dreamt	dreamy
+dress	->	dress	dressed	dresses	dressing	undressed
+drink	->	drink	drinks	drinker	drinkers	drank	drunk	drinking
+drive	->	drive	driven	driver	drivers	drives	driveway	driving	drove
+drop	->	drop	dropped	dropping	drops
+dry	->	dry	dried	dries	driest	dryer	drying	dryly	dryness
+due	->	due
+duty	->	duty	duties
+e	->	e
+each	->	each
+ear	->	ear	ears
+early	->	early	earlier	earliest	earliness
+earth	->	earth	earthy	earthquake	earthquakes
+east	->	east	eastern
+easy	->	easy	easier	easiest	easily	easiness
+eat	->	eat	ate	eaten	eating	eats
+effect	->	effect	effected	effecting	effective	effectively	effectiveness	effects	ineffective	ineffectively
+efficient	->	efficient	efficiency	inefficient
+effort	->	effort	efforts
+egg	->	egg	eggs
+eight	->	eight	eighteen	eighteenth	eighth	eighties	eightieth	eighty	eights	th
+either	->	either
+elect	->	elect	elected	electing	election	elections	elects	electors	electoral
+eleven	->	eleven	elevens	eleventh
+else	->	else	elsewhere
+empire	->	empire	empires
+employ	->	employ	employed	employee	employees	employer	employers	employing	employment	employs	unemployed	unemployment
+end	->	end	ended	ending	endless	endlessly	ends
+enemy	->	enemy	enemies
+english	->	english
+enjoy	->	enjoy	enjoyed	enjoying	enjoyment	enjoys	enjoyable
+enough	->	enough
+enter	->	enter	entered	entering	enters	entrance	entrances	entries	entry
+equal	->	equal	equaled	equaling	equality	equalled	equalling	equally	equals	inequality	unequal
+escape	->	escape	escaped	escapes	escaping
+even	->	even	evenly
+evening	->	evening	evenings
+event	->	event	events
+ever	->	ever
+every	->	every	everybody	everyday	everyone	everything	everywhere
+example	->	example	examples
+except	->	except	exception	exceptional	exceptions
+exchange	->	exchange	exchanged	exchanges	exchanging
+exercise	->	exercise	exercised	exercises	exercising
+exist	->	exist	existed	existence	existing	exists	nonexistent
+expect	->	expect	expectancy	expectation	expectations	expected	expecting	expects
+expense	->	expense	expenses	expensive
+experience	->	experience	experienced	experiences	experiencing
+experiment	->	experiment	experimental	experimentation	experimented	experimenting	experiments
+explain	->	explain	explained	explaining	explains	explanation	explanatory	explanations
+express	->	express	expressed	expresses	expressing	expression	expressions	expressive
+extend	->	extend	extended	extending	extends	extension	extensions	extensive	extensively	extent
+eye	->	eye	eyes
+f	->	f
+face	->	face	faced	faces	facing
+fact	->	fact	facts	factual
+factory	->	factory	factories
+fail	->	fail	failed	failing	fails	failure	failures
+fair	->	fair	fairer	fairest	fairly	fairness	unfair	unfairly
+faith	->	faith	faithful	faithfully	faiths
+fall	->	fall	fallen	falling	falls	fell
+familiar	->	familiar	familiarity	unfamiliar	unfamiliarity	familiarly
+family	->	family	families
+famous	->	famous
+far	->	far	farther	farthest	further	furthest
+farm	->	farm	farmer	farmers	farms	farming
+fast	->	fast	faster	fastest	fastness
+father	->	father	fathers	dad	dads	father-in-law
+favour	->	favour	favor	favorite	favourite	favourable	favourably	favoured	favouring	favourites	favours
+fear	->	fear	feared	fearful	fearing	fears
+february	->	february
+feel	->	feel	feeling	feelings	feels	felt
+fellow	->	fellow	fellows
+few	->	few	fewer	fewest
+field	->	field	fields
+fight	->	fight	fighter	fighters	fighting	fought	fights
+figure	->	figure	figures
+fill	->	fill	filled	filling	fills
+find	->	find	finding	findings	finds	found
+fine	->	fine	finely	fineness	finer	finest
+finish	->	finish	finished	finishes	finishing	unfinished
+fire	->	fire	fired	fires	firing
+first	->	first	firstly
+fish	->	fish	fished	fishes	fishing	fisherman
+fit	->	fit	fitness	fits	fitted	fitter	fittest	fitting
+five	->	five	fives	fifteen	fifteenth	fifth	fifthly	fifties	fiftieth	fifty
+fix	->	fix	fixed	fixes	fixing	fixable
+floor	->	floor	floors
+flow	->	flow	flowed	flows	flowing
+flower	->	flower	flowers
+fly	->	fly	flew	flown	flying	flight	flights	flies
+follow	->	follow	followed	follower	followers	following	follows
+food	->	food	foods
+for	->	for
+force	->	force	forced	forces	forcing	forceful	forcefully
+foreign	->	foreign	foreigner	foreigners
+forest	->	forest	forests	foresting	forested
+forget	->	forget	forgets	forgetting	forgot	forgotten	unforgettable
+form	->	form	formation	formed	forming	forms
+former	->	former	formerly
+forth	->	forth
+fortune	->	fortune	fortunate	fortunately	fortunes	unfortunately	unfortunate
+four	->	four	fours	forties	forty	fourteen	fourteenth	fourth	fourthly	fortieth
+free	->	free	freed	freedom	freedoms	freeing	freely	freer	freest
+fresh	->	fresh	freshness	fresher	freshest	freshly
+friday	->	friday	fri	fridays
+friend	->	friend	friendly	friends	friendship	friendships
+from	->	from
+front	->	front
+full	->	full	fuller	fullest	fullness	fully
+furnish	->	furnish	furnishes	furnished	furnishing	furniture
+future	->	future	futures
+g	->	g
+gain	->	gain	gained	gaining	gains
+game	->	game	games
+garden	->	garden	gardener	gardeners	gardens
+gas	->	gas	gases
+gate	->	gate	gates
+gather	->	gather	gathered	gathering	gatherings	gathers
+general	->	general	generally	generals	generalise	generalisable	generalised	generalisation	generalisations	generality	generalizations
+gentle	->	gentle	gentleman	gentlemen	gently
+get	->	get	gets	getting	got	gotten
+gift	->	gift	gifts	gifted
+girl	->	girl	girls
+give	->	give	gave	given	gives	giving
+glad	->	glad	gladder	gladdest	gladly	gladness
+glass	->	glass	glasses
+go	->	go	goes	going	gone	went
+god	->	god	gods	goddess
+gold	->	gold	golden
+good	->	good	goodbye	goodbyes	goodness
+great	->	great	greater	greatest	greatly	greatness
+green	->	green	greener	greenest	greenness	greenish
+ground	->	ground	grounded	grounds	grounding
+group	->	group	grouped	grouping	groupings	groups
+grow	->	grow	grew	growing	grown	grows	growth
+h	->	h
+half	->	half	halves
+hand	->	hand	handed	handful	handfuls	handing	hands	handwriting
+hang	->	hang	hanged	hanging	hangs	hung
+happen	->	happen	happened	happening	happens
+happy	->	happy	happier	happiest	happily	happiness	unhappy
+hard	->	hard	harden	hardened	hardening	hardens	harder	hardest	hardness	hardship	hardships
+hardly	->	hardly
+have	->	have	had	hadn	hasn	has	haven	haves	having	ve
+he	->	he	him	himself	his
+head	->	head	headed	heading	heads
+hear	->	hear	heard	hearer	hearing	hears
+heart	->	heart	hearts
+heat	->	heat	heated	heating	heats
+heaven	->	heaven	heavenly	heavens
+heavy	->	heavy	heavier	heaviest	heavily
+help	->	help	helped	helpful	helping	helpless	helplessly	helps	helper	helpers
+here	->	here
+high	->	high	higher	highest	highly	highness	highway	highways
+hill	->	hill	hills	hillside	hilly
+history	->	history	historian	historic	historical	histories
+hold	->	hold	held	holders	holding	holds
+home	->	home	homeless	homes
+honour	->	honour	dishonour	dishonourable	honor	honorable	honorably	honorary	honored	honoring	honors	honourable	honourably
+hope	->	hope	hoped	hopeful	hopeless	hopelessness	hopes	hoping
+horse	->	horse	horses
+hot	->	hot	hotly	hotness	hotter	hottest
+hour	->	hour	hourly	hours
+house	->	house	housed	housing	houses
+how	->	how
+however	->	however
+human	->	human	humans
+hundred	->	hundred	hundreds	hundredth
+husband	->	husband	husbands
+i	->	i	me	mine	my	myself
+idea	->	idea	ideas
+if	->	if
+ill	->	ill	illness	illnesses
+important	->	important	importance	unimportant	unimportance	importantly
+in	->	in	inner
+inch	->	inch	inches
+include	->	include	included	includes	including	inclusive	inclusion
+increase	->	increase	increased	increases	increasing	increasingly
+indeed	->	indeed
+independent	->	independent	independently	independence
+industry	->	industry	industrial	industrially	industries
+influence	->	influence	influenced	influences	influencing	influential
+instead	->	instead
+interest	->	interest	interested	interesting	interests
+into	->	into
+introduce	->	introduce	introduced	introduces	introducing	introduction	introductions	introductory
+iron	->	iron
+it	->	it	its	itself
+j	->	j
+january	->	january	jan
+join	->	join	joined	joining	joins
+joint	->	joint	jointed	disjointed	joints	jointly
+joy	->	joy	joyful	joyfully	joys
+judge	->	judge	judged	judges	judging	judgment	judgments	judgement	judgements	judgemental
+july	->	july
+june	->	june
+just	->	just	justly	unjust	unjustly
+justice	->	justice
+k	->	k
+keep	->	keep	keepers	keeping	keeps	kept
+kill	->	kill	killed	killer	killers	killing	kills
+kind	->	kind	kindly	kindness	kinds
+king	->	king	kings	kingdom	kingdoms
+know	->	know	knew	knowing	knowledge	known	knows	unknown	knowledgeable
+l	->	l
+lack	->	lack	lacked	lacking	lacks
+lady	->	lady	ladies
+lake	->	lake	lakes
+land	->	land	landed	landing	lands	landlords
+language	->	language	languages
+large	->	large	largely	larger	largest
+last	->	last	lasted	lasting	lasts	lastly
+late	->	late	lately	lateness	later	latest
+latter	->	latter
+laugh	->	laugh	laughs	laughed	laughing	laughable
+laughter	->	laughter
+law	->	law	laws	lawyer	lawyers	lawful	lawfully	unlawful	lawless
+lay	->	lay	laid	laying	lays
+lead	->	lead	leaded	leader	leaders	leadership	leading	leads	mislead	misleading	misled	led
+learn	->	learn	learned	learner	learners	learning	learns	learnt
+leave	->	leave	leaves	leaving
+left	->	left	leftist	leftists
+length	->	length	lengthening	lengths	lengthy	lengthen
+less	->	less	lessen	lessened	lessening	lesser	least
+let	->	let	lets	letting
+letter	->	letter	letters
+level	->	level	levelled	leveller	levelling	levels
+library	->	library	librarian	librarians	libraries
+lie	->	lie	liar	liars	lied	lies	lying
+life	->	life	lifetime	lifetimes	lifelike	lifesize	lifelong
+lift	->	lift	lifted	lifting	lifts
+light	->	light	lighted	lighten	lighter	lightest	lighting	lightly	lightness	lights	lightweight	lit
+like	->	like	liked	likes	liking	unlike	dislike	dislikes	disliked	disliking
+likely	->	likely	likelier	likeliest	likelihood	unlikely
+limit	->	limit	limitation	limitations	limited	limiting	limits	unlimited
+line	->	line	lines	lined	lining
+lip	->	lip	lips
+listen	->	listen	listened	listener	listeners	listening	listens
+literature	->	literature	literary
+little	->	little	littler	littlest
+live	->	live	lived	liveliest	lively	lives	living
+local	->	local	locally	locals
+long	->	long	longer	longest
+look	->	look	looked	looking	looks	outlook
+lord	->	lord	lords	lordship	lordships
+lose	->	lose	losers	loses	losing	lost
+loss	->	loss	losses
+love	->	love	loved	lovely	loves	loving	lovable	lover
+low	->	low	lower	lowered	lowest	lowering
+m	->	m
+machine	->	machine	machinery	machines
+main	->	main	mainly
+make	->	make	made	maker	makers	makes	making
+man	->	man	mankind	men	manly	manhood	manliness
+manner	->	manner	manners
+manufacture	->	manufacture	manufactured	manufacturing	manufactures	manufacturers	manufacturer
+many	->	many
+march	->	march	marched	marchers	marches	marching
+mark	->	mark	marked	marker	markers	marking	marks
+market	->	market	marketed	marketing	markets
+marry	->	marry	marriage	marriages	married	marries	marrying
+mass	->	mass	masses
+master	->	master	masters	mastered	mastering	masterful	mastery
+material	->	material	materialistic	materialistically	materially	materials
+matter	->	matter	mattered	mattering	matters
+may	->	may
+maybe	->	maybe
+mean	->	mean	meaner	meanest	meaning	meaningful	meaningless	meanings	meanly	meanness	means	meant
+measure	->	measure	measured	measurement	measurements	measures	measurable	measurably	measuring
+meet	->	meet	meeting	meetings	meets	met
+member	->	member	members	membership	memberships
+memory	->	memory	memorial	memories	memorise	memorised	memorises	memorising	memorize	memorized	memorizes	memorizing	memorials
+mention	->	mention	mentioned	mentioning	mentions	unmentioned
+mere	->	mere	merely	merest
+metal	->	metal	metals
+middle	->	middle	mid	midnight	midst
+might	->	might	mightn
+mile	->	mile	miles
+milk	->	milk	milky	milked	milks	milking
+million	->	million	millions	millionth
+mind	->	mind	minded	minding	minds
+miner	->	miner	miners	mined	mining	mines
+minister	->	minister	ministers
+minute	->	minute	minutes
+miss	->	miss	missed	misses	missing
+mister	->	mister	mr
+modern	->	modern	modernise	modernisation
+moment	->	moment	momentary	moments
+monday	->	monday	mon	mondays
+money	->	money
+month	->	month	monthly	months
+moon	->	moon	moons	moonlight
+moral	->	moral	morals	morally	morality
+more	->	more
+moreover	->	moreover
+morning	->	morning	mornings
+most	->	most	mostly
+mother	->	mother	mother-in-law	mothers	mom	motherhood	mum
+motor	->	motor	motorist	motorists	motors
+mountain	->	mountain	mountains	mountainside	mt
+mouth	->	mouth	mouthful	mouths
+move	->	move	moved	movement	moves	moving	movements
+mrs	->	mrs	ms
+much	->	much
+music	->	music	musical	musician	musicians	musically
+must	->	must
+n	->	n
+name	->	name	named	names	naming	namely	nameless
+nation	->	nation	national	nationally	nationwide	nations
+native	->	native	natives
+nature	->	nature	natural	naturally	natures
+near	->	near	nearby	nearer	nearest	nearly	nearness
+necessary	->	necessary	necessarily	unnecessarily	unnecessary
+necessity	->	necessity	necessities
+need	->	need	needed	needing	needless	needs	needn
+neighbour	->	neighbour	neighbor	neighborhood	neighborhoods	neighbors	neighbourhood	neighbourhoods	neighbours
+neither	->	neither
+never	->	never
+new	->	new	newer	newest	newly	newness	renew	renewed	renews	renewing
+news	->	news
+newspaper	->	newspaper	newspapers
+next	->	next
+night	->	night	nightly	nights
+nine	->	nine	nines	nineteen	nineteenth	nineties	ninetieth	ninety	ninth
+no	->	no	nobody	noone	nothing	nowhere
+noble	->	noble	nobility	nobler	noblest	nobly	nobles
+none	->	none
+nor	->	nor
+north	->	north	north-east	north-west	northeast	northern	northwards	northwest
+not	->	not	t
+note	->	note	notable	notes	noting	notably	noted
+notice	->	notice	noticeable	noticeably	noticed	notices	noticing
+november	->	november	nov
+now	->	now	nowadays
+number	->	number	numbered	numbering	numbers
+numerous	->	numerous
+numerical	->	numerical	numerically
+o	->	o
+object	->	object	objected	objection	objecting	objects	objectionable	objections
+observe	->	observe	observable	observation	observations	observatory	observed	observer	observers	observes	observing
+occasion	->	occasion	occasional	occasionally	occasions
+october	->	october	oct
+of	->	of
+off	->	off
+offer	->	offer	offered	offering	offerings	offers
+office	->	office	officer	officers	offices
+official	->	official	officially	officialdom	officials
+often	->	often
+oh	->	oh
+oil	->	oil	oily	oiliness	oils	oiled
+old	->	old	older	oldest
+on	->	on	onto
+once	->	once
+one	->	one	ones
+only	->	only
+open	->	open	opening	openly	openness	opens	opened
+operate	->	operate	operated	operates	operating	operation	operations	operator	operators	operational	operative
+opinion	->	opinion	opinions	opinionated
+opportunity	->	opportunity	opportunities
+or	->	or
+order	->	order	ordered	ordering	orderly	orders
+ordinary	->	ordinary	ordinarily
+organize	->	organize	organisation	organisations	organise	organised	organises	organising	organization	organizations	organized	organizes	organizing	organisational
+other	->	other	others
+otherwise	->	otherwise
+ought	->	ought	oughtn
+out	->	out	outer	outside	outsider	outsiders	outward	outwards
+over	->	over
+owe	->	owe	owed	owes	owing
+own	->	own	owned	owner	owners	ownership	owning	owns
+p	->	p
+page	->	page	pages
+paint	->	paint	painted	painter	painters	painting	paintings	paints
+paper	->	paper	papers	papered	papering
+part	->	part	parted	parting	partly	parts	partial	partially	particle	particles
+particular	->	particular	particularly
+party	->	party	parties
+pass	->	pass	passed	passes	passing
+past	->	past
+pay	->	pay	paid	paying	payment	payments	pays	repaid	unpaid
+peace	->	peace	peaceful	peacefully
+people	->	people	peoples
+per	->	per
+perhaps	->	perhaps
+permit	->	permit	permission	permits	permitted	permitting
+person	->	person	personal	personalities	personally	persons
+picture	->	picture	pictured	pictures	picturing
+piece	->	piece	pieces
+place	->	place	placed	places	placing
+plain	->	plain	plainly	plains
+plan	->	plan	planned	planner	planners	planning	plans
+plant	->	plant	planted	planting	plants
+play	->	play	played	player	players	playing	plays	replay	replays	replaying	replayed
+please	->	please	pleasant	pleasantly	pleasantness	pleased	pleases	pleasing	pleasure	unpleasant	unpleasantly	displease	displeased	displeasing	displeasure
+point	->	point	pointed	pointing	points	pointer	pointers
+political	->	political	politically	politician	politicians	politics
+poor	->	poor	poorer	poorest	poorly
+poverty	->	poverty
+popular	->	popular	popularity	popularly
+population	->	population	populations	populate	populating	populated	populates
+position	->	position	positions	positioning	positioned
+possess	->	possess	possessed	possesses	possessing	possession	possessions
+possible	->	possible	possibilities	possibility	possibly	impossibility	impossible	impossibly
+post	->	post	posted	poster	posters	posting	posts
+pound	->	pound	pounds
+power	->	power	powered	powerful	powers
+prepare	->	prepare	preparation	preparations	prepared	prepares	preparing	unprepared
+present	->	present	presence	presentation	presented	presenting	presently	presents
+president	->	president	presidents	presidential
+press	->	press	pressed	presses	pressing
+pressure	->	pressure	pressured	pressures	pressuring
+pretty	->	pretty	prettier	prettiest	prettily	prettiness
+prevent	->	prevent	prevented	preventing	prevention	prevents	preventable	preventative	unpreventable
+price	->	price	priced	prices	pricing
+private	->	private	privately
+problem	->	problem	problems	problematic
+produce	->	produce	produced	producer	producers	produces	producing
+product	->	product	products	production	productions	productive	productivity
+profit	->	profit	profited	profiting	profits	profitable
+progress	->	progress	progressed	progresses	progressing	progressive	progressively
+promise	->	promise	promised	promises	promising
+proper	->	proper	properly	improper	improperly
+property	->	property	properties
+propose	->	propose	proposal	proposals	proposed	proposes	proposing
+protect	->	protect	protected	protecting	protection	protections	protective	protects
+prove	->	prove	proved	proven	proves	proving	unproven
+proof	->	proof	proofs
+provide	->	provide	provided	provides	providing	provider	providers
+provision	->	provision	provisions
+public	->	public	publicity	publicly
+pull	->	pull	pulled	pulling	pulls
+purpose	->	purpose	purposes
+put	->	put	puts	putting
+q	->	q
+quality	->	quality	qualities
+quantity	->	quantity	quantities
+quarter	->	quarter	quarterly	quarters
+queen	->	queen	queens
+question	->	question	questions	questioned	questioning	questionable
+quite	->	quite
+r	->	r
+race	->	race	racecourse	raced	races	racing
+raise	->	raise	raised	raises	raising
+rank	->	rank	ranked	ranking	ranks
+rate	->	rate	rated	rates	rating
+rather	->	rather
+reach	->	reach	reached	reaches	reaching
+read	->	read	reader	readers	reading	readings	reads
+ready	->	ready	readily
+real	->	real	realistic	reality
+realise	->	realise	realize	realization	realized	realizes	realizing	realisation	realisations	realised	realising	realises
+really	->	really
+reason	->	reason	reasonable	reasonably	reasoned	reasoning	reasons
+receive	->	receive	received	receiver	receives	receiving
+receipt	->	receipt	receipts
+recent	->	recent	recently
+recognize	->	recognize	recognise	recognised	recognises	recognising	recognition	recognized	recognizes	recognizing
+record	->	record	recorded	recording	records
+red	->	red	redder	reddest	redness	redden	reddish
+reduce	->	reduce	reduced	reduces	reducing	reduction	reductions
+refuse	->	refuse	refusal	refusals	refused	refuses	refusing
+regard	->	regard	disregard	disregarded	disregarding	disregards	regarded	regarding	regardless	regards
+relation	->	relation	relate	related	relates	relating	relations	relationship	relationships
+relative	->	relative	relatively	relatives
+religion	->	religion	religions	religious
+remain	->	remain	remained	remaining	remainder	remainders	remains
+remark	->	remark	remarked	remarking	remarks	remarkable	remarkably
+remember	->	remember	remembered	remembering	remembers
+reply	->	reply	replied	replies	replying
+report	->	report	reported	reporter	reporters	reporting	reports
+represent	->	represent	representative	representatives	represented	representing	represents	representation	representations
+republic	->	republic	republics	republican	republicans	republicanism
+reserve	->	reserve	reserves	reservation	reservations	reserved	reserving
+respect	->	respect	disrespect	disrespectful	respected	respecting	respects	respectful	respectable	respectfully	respective	respectively	irrespective	irrespectively
+rest	->	rest	rested	resting	restless	restlessness	rests
+result	->	result	resulted	resulting	results
+return	->	return	returned	returning	returns
+rich	->	rich	richer	richest	richly	richness	riches
+ride	->	ride	ridden	rider	riders	rides	riding	rode
+right	->	right	rightful	rightfully	rightist	rightists	rightly	rights
+ring	->	ring	rang	ringed	ringing	rings	rung
+rise	->	rise	rises	rising	rose
+river	->	river	rivers	riverside
+road	->	road	roads	roadside
+rock	->	rock	rocky	rocked	rocking	rocks
+roll	->	roll	rolled	rolling	rolls	roller	rollers
+room	->	room	rooms
+rough	->	rough	roughly	roughness
+round	->	round	rounded	rounder	roundest	roundly	roundness	rounds	roundabout
+royal	->	royal	royalty	royally
+rule	->	rule	ruled	ruler	rulers	rules	ruling
+run	->	run	ran	runner	runners	running	runs
+safe	->	safe	safely	safeness	safer	safest	safety
+sail	->	sail	sailed	sailing	sailings	sailor	sailors	sails
+sale	->	sale	sales
+salt	->	salt	salty
+same	->	same	sameness
+saturday	->	saturday	saturdays
+save	->	save	saved	saves	saving	savings
+say	->	say	said	saying	says
+scarce	->	scarce	scarcely	scarcer	scarcest	scarcity
+scene	->	scene	scenery	scenes
+school	->	school	schooling	schools
+science	->	science	sciences	scientific	scientist	scientists	scientifically
+sea	->	sea	seaman	seaside	seamen	seas
+season	->	season	seasons
+seat	->	seat	seated	seating	seats
+second	->	second	secondary	secondly	seconds
+secret	->	secret	secrecy	secretly	secrets
+secretary	->	secretary	secretaries
+see	->	see	saw	seeing	seen	sees	unseen
+seem	->	seem	seemed	seeming	seems
+sell	->	sell	seller	sellers	selling	sells	sold	resell	reselling	resold
+send	->	send	sender	senders	sending	sends	sent
+sense	->	sense	senseless	senselessness	senses	sensible
+sensitive	->	sensitive	sensitivity
+separate	->	separate	separated	separately	separates	separating	separation	separations	separatist	separatists
+september	->	september	sept
+serious	->	serious	seriously	seriousness
+serve	->	serve	servant	servants	served	serves	serving	servings
+service	->	service	services	serviced	servicing
+set	->	set	sets	setting
+settle	->	settle	settled	settlement	settlements	settler	settlers	settles	settling
+seven	->	seven	seventeen	seventeenth	seventh	seventies	seventieth	seventy
+several	->	several
+shadow	->	shadow	shadowed	shadowing	shadows	shadowy
+shake	->	shake	shaken	shakes	shakily	shaking	shaky	shook
+shall	->	shall	shan
+shape	->	shape	shaped	shapes	shaping	shapeless
+share	->	share	shared	shares	sharing
+she	->	she	her	hers	herself
+shine	->	shine	shined	shines	shining	shone	shiny
+ship	->	ship	ships	shipping	shipped	shipments	shipment
+shoot	->	shoot	shooting	shootings	shoots	shot	shots
+shore	->	shore	shores
+short	->	short	shortage	shorten	shortened	shortening	shortens	shorter	shortest	shortly	shortness
+should	->	should	shouldn
+shoulder	->	shoulder	shoulders
+show	->	show	showed	showing	shown	shows
+side	->	side	sides
+sight	->	sight	sights
+sign	->	sign	signature	signatures	signed	signing	signs
+silence	->	silence	silenced	silences	silencing	silent	silently
+silver	->	silver
+simple	->	simple	simpleness	simpler	simplest	simplicity	simplification	simplified	simplify	simply
+since	->	since
+sing	->	sing	sings	sung	sang	singer	singers	singing	song	songs
+single	->	single	singled
+sir	->	sir
+sister	->	sister	sisters	sisterly
+sit	->	sit	sat	sits	sitting
+situation	->	situation	situations	situate	situated
+six	->	six	sixes	sixteen	sixteenth	sixteenths	sixth	sixthly	sixths	sixties	sixtieth	sixtieths	sixty
+size	->	size	sizes	sizing	sized
+sky	->	sky	skies
+sleep	->	sleep	sleeping	sleeps	sleepy	slept	sleepless
+small	->	small	smaller	smallest	smallness
+smile	->	smile	smiled	smiles	smiling
+snow	->	snow	snows	snowed	snowing
+so	->	so
+social	->	social	socially
+society	->	society	societies
+soft	->	soft	soften	softened	softening	softens	softer	softest	softly	softness
+soldier	->	soldier	soldiers
+some	->	some	somebody	somehow	someone	something	sometime	sometimes	somewhere
+son	->	son	sons
+soon	->	soon	sooner	soonest
+sort	->	sort	sorted	sorting	sorts
+soul	->	soul	souls
+sound	->	sound	sounds	sounded	sounding
+south	->	south	southeast	southern	southerners	southward	southwards	southwest
+space	->	space	spaced	spaces	spacing
+speak	->	speak	speaker	speakers	speaking	speaks	speech	speeches	spoke	spoken
+special	->	special	specially	specialist	speciality	specialities	specialists	specialize	specialization	specialized	specializations
+speed	->	speed	sped	speeding	speeds	speedy
+spend	->	spend	spending	spends	spent
+spirit	->	spirit	spirits	spiritual
+spite	->	spite
+spot	->	spot	spots	spotted	spotting
+spread	->	spread	spreading	spreads
+spring	->	spring	sprang	springing	springs	sprung
+square	->	square	squarely	squareness	squarer	squares	squarest
+stage	->	stage	staging	staged	stages
+stand	->	stand	outstanding	standing	stands	stood
+standard	->	standard	standards
+star	->	star	starred	stars	starring
+start	->	start	started	starting	starts
+state	->	state	stated	statement	statements	states	stating
+station	->	station	stations
+stay	->	stay	stayed	staying	stays
+steel	->	steel
+step	->	step	stepped	stepping	steps
+still	->	still	stiller	stillest	stillness
+stock	->	stock	stocked	stocks
+stone	->	stone	stoned	stones	stoning	stony
+stop	->	stop	stopped	stopping	stops
+store	->	store	stored	stores	storing
+story	->	story	stories
+strange	->	strange	strangely	strangeness	stranger	strangers	strangest
+stream	->	stream	streamed	streaming	streams
+street	->	street	streets
+strength	->	strength	strengthen	strengthened	strengthening	strengthens
+strike	->	strike	strikes	striking	struck	stroke
+strong	->	strong	stronger	strongest	strongly
+struggle	->	struggle	struggled	struggles	struggling
+study	->	study	studied	studies	studying
+student	->	student	students
+subject	->	subject	subjected	subjecting	subjects
+substance	->	substance	substances	substantial	substantially	substantive
+succeed	->	succeed	succeeded	succeeding	succeeds	success	successful	successfully	unsuccessful
+such	->	such
+suffer	->	suffer	suffered	suffering	suffers
+suggest	->	suggest	suggested	suggesting	suggestion	suggestions	suggests
+summer	->	summer	summers
+sun	->	sun	sunlight	sunny	suns	sunshine
+sunday	->	sunday	sundays
+supply	->	supply	supplied	supplier	suppliers	supplies	supplying
+support	->	support	supported	supporters	supporting	supports	supportive
+suppose	->	suppose	supposed	supposes	supposing
+sure	->	sure	surely	sureness	surer	surest	unsure
+surface	->	surface	surfaced	surfaces	surfacing
+surprise	->	surprise	surprised	surprises	surprising	surprisingly
+surround	->	surround	surrounded	surrounding	surrounds
+sweet	->	sweet	sweetness	sweetly	sweets
+sword	->	sword	swords
+system	->	system	systematic	systems	systematically
+table	->	table	tablecloth	tables
+take	->	take	taken	takes	taking	took
+talk	->	talk	talked	talking	talks
+tax	->	tax	taxes	taxed	taxing	taxpayer	taxpayers
+teach	->	teach	taught	teacher	teachers	teaches	teaching	teachings
+tear	->	tear	tearing	tears	tore	torn
+tell	->	tell	retell	retelling	telling	tells	told
+temple	->	temple	temples
+ten	->	ten	tens	tenth	tenths
+term	->	term	terms
+test	->	test	tested	testing	tests
+than	->	than
+the	->	the
+then	->	then
+there	->	there
+therefore	->	therefore
+they	->	they	their	theirs	them	themselves
+thing	->	thing	things
+think	->	think	thinking	thinks	thought	thoughts	thoughtful	thoughtfully	thoughtfulness
+thirteen	->	thirteen	thirteenth	thirteenths
+thirty	->	thirty	thirties	thirtieth	thirtieths
+this	->	this	these	those	that
+though	->	though
+thousand	->	thousand	thousands	thousandth	thousandths
+three	->	three	threes	third	thirdly	thirds
+through	->	through	throughout
+throw	->	throw	threw	throwing	thrown	throws
+thursday	->	thursday	thurs	thursdays
+thus	->	thus
+till	->	till
+time	->	time	timer	times	timeless	timely
+to	->	to
+today	->	today
+together	->	together
+ton	->	ton	tons
+too	->	too
+top	->	top	topped	topping	tops
+total	->	total	totaled	totaling	totalled	totalling	totally	totals	totality
+touch	->	touch	touched	touches	touching	untouched
+toward	->	toward	towards
+town	->	town	towns
+trade	->	trade	traded	trades	trading	trader	traders
+train	->	train	trained	trainers	training	trains
+travel	->	travel	traveled	traveling	travelled	travellers	travelling	travels
+tree	->	tree	trees
+trouble	->	trouble	troubled	troubles	troubling	troublesome
+true	->	true	truthful	truth	truest	truer	truthfulness	truly	truths
+trust	->	trust	trusted	trusting	entrust	trusts
+try	->	try	tried	tries	trying	trial	trials	trialing	trialed
+tuesday	->	tuesday	tues	tuesdays
+turn	->	turn	turned	turning	turns
+twelve	->	twelve	twelves	twelfth	twelfths
+twenty	->	twenty	twenties	twentieth
+two	->	two	twice
+type	->	type	typed	types	typing	typist	typists
+u	->	u
+under	->	under	underneath
+understand	->	understand	understanding	understands	understood
+union	->	union	unions
+unite	->	unite	united	unites	uniting	unity	unit	units
+university	->	university	universities
+unless	->	unless
+until	->	until
+up	->	up	upside
+upon	->	upon
+use	->	use	misused	used	useful	usefulness	useless	uses	using	usefully	user	users
+usual	->	usual	usually	unusual	unusually
+v	->	v
+valley	->	valley	valleys
+value	->	value	valuable	valuables	valuation	valued	valuer	valueless	values	valuing	invaluable	invaluably
+variety	->	variety	varieties
+various	->	various	variously
+very	->	very
+vessel	->	vessel	vessels
+victory	->	victory	victories	victorious
+view	->	view	viewed	viewing	views
+village	->	village	villager	villagers	villages
+virtue	->	virtue	virtues	virtuous
+visit	->	visit	visited	visiting	visitor	visitors	visits	visitation
+voice	->	voice	voiced	voices	voicing	voiceless
+vote	->	vote	voted	voter	voters	votes	voting
+w	->	w
+wage	->	wage	wages	unwaged
+wait	->	wait	waited	waiting	waits	waiter	waiters	waitress	waitresses
+walk	->	walk	walked	walking	walks
+wall	->	wall	walled	walls
+want	->	want	wanted	wanting	wants	unwanted
+war	->	war	warred	warring	wars
+watch	->	watch	watched	watches	watching
+water	->	water	watered	waters	watering
+wave	->	wave	waved	waves	waving
+way	->	way	ways
+we	->	we	our	ours	ourselves	us
+wealth	->	wealth	wealthy
+wear	->	wear	wearing	wears	wore	worn
+wednesday	->	wednesday	wednesdays
+week	->	week	weekend	weekends	weekly	weeks
+welcome	->	welcome	welcomed	welcomes	welcoming	unwelcome
+well	->	well	wells
+west	->	west	westward	westwards
+western	->	western	westerns
+what	->	what	whatever
+when	->	when	whenever
+where	->	where	wherever
+whether	->	whether
+which	->	which	whichever
+while	->	while	whilst
+white	->	white	whiteness	whiter	whitest	whitish
+who	->	who	whoever	whom	whose
+whole	->	whole	wholeness	wholly
+why	->	why
+wide	->	wide	widely	widened	wideness	widening	wider	widest	width
+wife	->	wife	wives
+wild	->	wild	wilder	wildest	wildly	wildness
+will	->	will	ll	willing	willingness	willingly	unwilling	unwillingly
+win	->	win	winner	winners	winning	wins	won
+wind	->	wind	winded	winding	winds	windy
+window	->	window	windows
+winter	->	winter	winters	wintry
+wise	->	wise	unwise	wisdom	wisely	wiseness	wiser	wisest
+wish	->	wish	wished	wishes	wishing
+with	->	with
+within	->	within
+without	->	without
+woman	->	woman	women
+wonder	->	wonder	wondered	wonderful	wondering	wonders	wonderfully
+wood	->	wood	woods	wooden	woodland	woody
+word	->	word	words	wording
+work	->	work	worked	worker	workers	working	works	workman	workmen
+world	->	world	worlds
+worth	->	worth	worthy	worthless
+would	->	would	wouldn
+wound	->	wound	wounds	wounded	wounding
+write	->	write	writer	writers	writes	writing	writings	written	wrote
+wrong	->	wrong	wronged	wronging	wrongs	wrongly
+y	->	y
+year	->	year	years	yearly
+yield	->	yield	yields	yielded	yielding
+yes	->	yes
+yesterday	->	yesterday
+yet	->	yet
+you	->	you	your	yourselves	yourself	yours
+young	->	young	younger	youngster	youngest	youngsters
+youth	->	youth	youths	youthful
+abroad	->	abroad
+absence	->	absence	absences
+absent	->	absent
+absolute	->	absolute
+absolutely	->	absolutely
+accident	->	accident	accidents	accidental	accidentally
+accuse	->	accuse	accusing	accuses	accused
+accustom	->	accustom	accustoms	accustoming	accustomed
+ache	->	ache	aching	aches	ached
+admire	->	admire	admiring	admires	admired	admirable	admiration
+advertise	->	advertise	advertising	advertises	advertiser	advertised	advertisement	advertisements
+advice	->	advice	advisors	advising	advises	advisers	adviser	advised	advise	advisory
+aeroplane	->	aeroplane	aeroplanes
+afford	->	afford	afforded	affording	affords	affordable
+afraid	->	afraid
+afternoon	->	afternoon	afternoons
+agriculture	->	agriculture	agricultural
+ahead	->	ahead
+aim	->	aim	aims	aiming	aimed	aimless	aimlessness
+airplane	->	airplane	airplanes
+alike	->	alike
+alive	->	alive
+aloud	->	aloud
+altogether	->	altogether
+ambition	->	ambition	ambitions	ambitious	ambitiously
+amuse	->	amuse	amusing	amuses	amused	amusement	amusements
+anger	->	anger	angers	angering	angered	angry	angrily	angrier	angriest
+angle	->	angle	angles	angling	angled
+annoy	->	annoy	annoys	annoying	annoyed	annoyance
+anxiety	->	anxiety	anxieties	anxious	anxiously
+apart	->	apart
+apologize	->	apologize	apologizes	apologized	apologise	apologising	apologises	apologised
+apology	->	apology	apologies	apologetic
+applaud	->	applaud	applauds	applauding	applauded
+applause	->	applause
+apple	->	apple	apples
+approve	->	approve	approving	approves	approved	approval	disapprove	disapproving	disapproves	disapproved	disapproval
+arch	->	arch	arching	arches	arched
+argue	->	argue	arguing	argues	argued	arguable	argument	arguments
+arrange	->	arrange	arranged	arranging	arranges	arrangement	arrangements
+arrest	->	arrest	arrests	arresting	arrested
+arrow	->	arrow	arrows
+artificial	->	artificial	artificially
+ash	->	ash	ashes
+ashamed	->	ashamed	ashamedly
+aside	->	aside
+asleep	->	asleep
+astonish	->	astonish	astonishing	astonishes	astonished	astonishment
+attend	->	attend	attends	attending	attended	attendant	attendance	attendances
+attention	->	attention
+attract	->	attract	attracts	attracting	attracted	attractive	attraction	attractions	attractively	attractiveness
+audience	->	audience	audiences
+aunt	->	aunt	aunty	aunts
+autumn	->	autumn
+avenue	->	avenue	avenues
+avoid	->	avoid	avoids	avoiding	avoided	avoidance	avoidable	unavoidable
+awake	->	awake	awaken	awoken
+awkward	->	awkward	awkwardly
+axe	->	axe	axing	axes	axed	ax
+baby	->	baby	babies
+bag	->	bag	bags	bagging	bagged
+baggage	->	baggage
+bake	->	bake	baking	bakes	bakers	baker	baked
+balance	->	balance	balancing	balances	balanced	unbalanced
+band	->	band	banded	banding	bands
+barber	->	barber	barbers
+bare	->	bare	baring	bares	bared
+barely	->	barely
+bargain	->	bargain	bargains	bargaining	bargained
+barrel	->	barrel	barrels
+basin	->	basin	basins
+basket	->	basket	baskets
+bath	->	bath	baths
+bathe	->	bathe	bathing	bathes	bathed
+bay	->	bay	bays
+beak	->	beak	beaks	beaked
+beam	->	beam	beams	beamed	beaming
+bean	->	bean	beans
+beard	->	beard	beards	bearded
+beast	->	beast	beasts
+beat	->	beat	beats	beating	beaten
+beg	->	beg	begs	begging	begged	beggars	beggar
+behave	->	behave	behaves	behaved	behaving
+behaviour	->	behaviour	behaviours	behaviors	behavioural	behavior	behavioral
+bell	->	bell	bells
+belt	->	belt	belts	belting	belted
+bend	->	bend	bent	bends	bending
+berry	->	berry	berries
+bicycle	->	bicycle	bicycling	bicycles	bicycled
+billion	->	billion	billions
+bind	->	bind	binds	binding	binders	binder
+birth	->	birth	births	birthdays	birthday
+bit	->	bit	bits
+bite	->	bite	bites	biting	bitten
+bitter	->	bitter	bitterness	bitterly	bitterest	bitterer
+blade	->	blade	blades
+blame	->	blame	blaming	blames	blamed	blameless
+bless	->	bless	blessed	blesses	blessing	blessings
+blind	->	blind	blinds	blindly	blinding	blinded	blindness
+block	->	block	blocks	blocking	blocked
+boast	->	boast	boasts	boasting	boasted	boastful
+boil	->	boil	boils	boiling	boilers	boiler	boiled
+bold	->	bold	boldness	boldly	boldest	bolder
+bone	->	bone	boning	bones	boned
+border	->	border	borders	bordering	bordered
+borrow	->	borrow	borrows	borrowing	borrowed
+bottle	->	bottle	bottling	bottles	bottled
+bottom	->	bottom	bottoms
+bound	->	bound	bounds	bounding	bounded	boundless
+boundary	->	boundary	boundaries
+bow	->	bow	bows	bowing	bowed
+bowl	->	bowl	bowls	bowling	bowled
+brain	->	brain	brains
+brass	->	brass
+brave	->	brave	braving	braves	bravely	braved	bravery
+breakfast	->	breakfast	breakfasts	breakfasting	breakfasted
+breath	->	breath	breaths	breathlessly	breathless
+breathe	->	breathe	breathing	breathes	breathed
+bribe	->	bribe	bribing	bribes	bribed	bribery
+brick	->	brick	bricks
+broadcast	->	broadcast	broadcasted	broadcasting	broadcasts
+brown	->	brown	browns	browning	browned
+brush	->	brush	brushing	brushes	brushed
+bucket	->	bucket	buckets
+bunch	->	bunch	bunches
+bundle	->	bundle	bundling	bundles	bundled
+burst	->	burst	bursts	bursting
+bury	->	bury	burying	buries	buried
+burial	->	burial	burials
+bus	->	bus	bussing	buses	bussed
+bush	->	bush	bushes	bushy
+busy	->	busy	busily	busiest	busier
+butter	->	butter	butters	buttering	buttered
+button	->	button	buttons	buttoning	buttoned	unbuttoned
+cage	->	cage	caging	cages	caged
+cake	->	cake	cakes
+calculate	->	calculate	calculator	calculating	calculates	calculated	calculation	calculations
+calm	->	calm	calms	calmly	calming	calmed	calmness
+camera	->	camera	cameras
+camp	->	camp	camped	camping	camps
+canal	->	canal	canals
+cap	->	cap	caps	cappings	capping	capped
+cape	->	cape	capes	caped
+card	->	card	cards
+carriage	->	carriage	carriages
+cart	->	cart	carts	carting	carted
+cat	->	cat	cats
+cattle	->	cattle
+caution	->	caution	cautions	cautioning	cautioned	cautious	cautiously
+cave	->	cave	caving	caves	caved
+cent	->	cent	cents
+centimetre	->	centimetre	centimetres
+century	->	century	centuries
+ceremony	->	ceremony	ceremonies	ceremonial
+chain	->	chain	chains	chaining	chained
+chair	->	chair	chairs	chairman
+chalk	->	chalk	chalks
+charm	->	charm	charms	charming	charmed
+cheap	->	cheap	cheapness	cheaply	cheapest	cheaper
+cheat	->	cheat	cheats	cheating	cheated
+check	->	check	checks	checking	checked
+cheer	->	cheer	cheery	cheers	cheering	cheerful	cheered
+cheese	->	cheese	cheeses
+cheque	->	cheque	cheques
+chest	->	chest	chests
+chicken	->	chicken	chickens
+chimney	->	chimney	chimneys
+christmas	->	christmas	christmases
+civilise	->	civilise	civilizing	civilizes	civilized	civilize	civilising	civilises	civilised	civilisation	civilisations
+clay	->	clay	clays
+clean	->	clean	cleaned	cleaner	cleaners	cleanest	cleaning	cleanly	cleans	cleanness
+clerk	->	clerk	clerks
+clever	->	clever	cleverness	cleverly	cleverest	cleverer
+cliff	->	cliff	cliffs
+climb	->	climb	climbs	climbing	climbers	climber	climbed
+clock	->	clock	clocks
+cloth	->	cloth	cloths	clothing	clothes
+club	->	club	clubbed	clubbing	clubs
+coarse	->	coarse	coarsest	coarser	coarseness	coarsely
+coat	->	coat	coats
+coffee	->	coffee	coffees
+collar	->	collar	collars
+collect	->	collect	collects	collecting	collected	collective	collectively	collector	collectors	collection	collections
+comb	->	comb	combs	combing	combed
+combine	->	combine	combining	combines	combined	combination	combinations
+comfort	->	comfort	uncomfortable	discomfort	comforts	comforting	comforted	comfortably	comfortable
+commerce	->	commerce	commercial	commercially
+companion	->	companion	companions	companionship
+compare	->	compare	comparable	compared	compares	comparative	comparison	comparisons	comparing	comparatively
+compete	->	compete	competing	competes	competed
+competition	->	competition	competitions
+complain	->	complain	complaints	complaint	complains	complaining	complained
+complicate	->	complicate	complicated	complicates	complicating	complication	complications
+compose	->	compose	composing	composes	composer	composed	composite	composition
+confess	->	confess	confessing	confesses	confessed	confession	confessions
+confidence	->	confidence	confidences	confident	confidently
+confuse	->	confuse	confusing	confuses	confused	confusion
+congratulate	->	congratulate	congratulating	congratulates	congratulated	congratulations
+connect	->	connect	connected	connecting	connects	connection	connections
+conquer	->	conquer	conquers	conquerors	conqueror	conquering	conquered	conquest	conquests
+conscience	->	conscience	consciences
+conscious	->	conscious	consciousness	unconscious	unconsciously	consciously
+convenience	->	convenience	conveniences	convenient	conveniently
+conversation	->	conversation	conversations
+cook	->	cook	cooks	cooking	cookers	cooker	cooked
+cool	->	cool	cools	coolness	coolly	cooling	coolest	cooler	cooled
+copper	->	copper
+copy	->	copy	copying	copies	copied
+cork	->	cork	corks	corking	corked
+corner	->	corner	corners	cornered	cornering
+correct	->	correct	corrects	correctly	correcting	corrected	correctness	correction	corrections	incorrect	incorrectly
+cottage	->	cottage	cottages
+cough	->	cough	coughs	coughing	coughed
+courage	->	courage	courageous
+cousin	->	cousin	cousins
+cow	->	cow	cows
+coward	->	coward	cowards	cowardly	cowardice
+crack	->	crack	cracks	cracking	cracked
+crash	->	crash	crashing	crashes	crashed
+cream	->	cream	creams	creaming	creamed
+creature	->	creature	creatures
+creep	->	creep	crept	creeps	creeping
+crime	->	crime	crimes
+criminal	->	criminal	criminally
+critic	->	critic	critics	critically	critical
+crop	->	crop	crops	cropping	cropped
+cruel	->	cruel	cruelly	cruelness	cruellest	crueller	cruelty	cruelties
+crush	->	crush	crushing	crushes	crushed
+cultivate	->	cultivate	cultivating	cultivates	cultivated	cultivation
+cup	->	cup	cups
+cupboards	->	cupboards	cupboard
+cure	->	cure	curing	cures	cured	curable	incurable
+curious	->	curious	curiously	curiosity
+curl	->	curl	curls	curling	curled	curly
+curse	->	curse	cursing	curses	cursed
+curtain	->	curtain	curtains
+curve	->	curve	curving	curves	curved
+cushion	->	cushion	cushions	cushioned	cushioning
+custom	->	custom	customs	customary
+customer	->	customer	customers
+damage	->	damage	damaging	damages	damaged	undamaged
+damp	->	damp	dampness	dampest	damper
+dance	->	dance	danced	dancer	dancers	dances	dancing
+dare	->	dare	dared	dares	daring
+deaf	->	deaf	deafness	deafest	deafer
+debt	->	debt	debts
+decay	->	decay	decays	decaying	decayed
+deceive	->	deceive	deceiving	deceives	deceived	deception
+decrease	->	decrease	decreasing	decreases	decreased
+deed	->	deed	deeds
+deer	->	deer
+defend	->	defend	defence	defends	defending	defenders	defender	defended
+delay	->	delay	delays	delaying	delayed
+delicate	->	delicate	delicately	delicacy	delicacies
+delight	->	delight	delights	delighting	delightfully	delightful	delighted
+deliver	->	deliver	delivered	deliveries	delivering	delivers	undelivered	delivery
+descend	->	descend	descends	descending	descended
+deserve	->	deserve	deserving	deserves	deservedly	deserved
+desk	->	desk	desks
+despair	->	despair	despairs	despairingly	despairing	despaired
+devil	->	devil	devils
+diamond	->	diamond	diamonds
+dictionary	->	dictionary	dictionaries
+dig	->	dig	dug	digs	digging
+dinner	->	dinner	dinners	dining	dines	dined	dine
+dip	->	dip	dips	dipping	dipped
+dirt	->	dirt	dirty
+disappoint	->	disappoint	disappoints	disappointing	disappointed	disappointment	disappointments
+discipline	->	discipline	disciplining	disciplines	disciplined	disciplinary
+discuss	->	discuss	discussing	discusses	discussed	discussion	discussions
+disease	->	disease	diseases	diseased
+disgust	->	disgust	disgusts	disgusting	disgusted
+dish	->	dish	dishes
+dismiss	->	dismiss	dismissing	dismisses	dismissed	dismissive	dismissively
+disturb	->	disturb	disturbs	disturbing	disturbed	disturbance	disturbances
+ditch	->	ditch	ditching	ditches	ditched
+dive	->	dive	diving	dives	dived	dove	diver	divers
+donkey	->	donkey	donkeys
+dot	->	dot	dots
+double	->	double	doubled	doubles	doubling
+dozen	->	dozen	dozens
+drag	->	drag	drags	dragging	dragged
+drawer	->	drawer	drawers
+drown	->	drown	drowns	drowning	drowned
+drum	->	drum	drums	drumming	drummed
+duck	->	duck	ducks	ducking	ducked
+dull	->	dull	dullness	dullest	duller
+during	->	during
+dust	->	dust	dusts	dusting	dusted	duster	dusters
+eager	->	eager	eagerness	eagerly
+earn	->	earn	earns	earning	earned	earnings
+earnest	->	earnest	earnestly
+ease	->	ease	easing	eases	eased	unease	uneasy
+edge	->	edge	edged	edges	edging
+educate	->	educate	educating	educates	educated	educator	educators	uneducated	education	educational
+elastic	->	elastic	elastics	elasticity
+elder	->	elder	elderly
+electric	->	electric	electricity	electricians	electrician	electrical	electrically
+elephant	->	elephant	elephants
+empty	->	empty	emptying	empties	emptied
+enclose	->	enclose	enclosing	encloses	enclosed	enclosure
+encourage	->	encourage	encouragingly	encouraging	encourages	encouraged	encouragement
+engine	->	engine	engines
+engineer	->	engineer	engineering	engineers
+entertain	->	entertain	entertains	entertaining	entertained	entertainment
+entire	->	entire	entirely
+envelope	->	envelope	envelopes
+envy	->	envy	envying	envies	envied	envious
+especial	->	especial	especially
+essence	->	essence	essences
+essential	->	essential	essentials	essentially
+evil	->	evil	eviler	evilest	evilly	evilness	evils
+exact	->	exact	exactly
+examining	->	examining	examines	examined	examine	examiner	examiners	examination	examinations
+excellent	->	excellent	excellence
+excess	->	excess	excessive	excessively
+excite	->	excite	exciting	excites	excitedly	excited	excitement
+excuse	->	excuse	excusing	excuses	excused
+explode	->	explode	exploding	explodes	exploded	explosion	explosions	explosive
+explore	->	explore	exploring	exploration	explores	explored	exploratory	explorer	explorers	explorations
+extra	->	extra	extras
+extraordinary	->	extraordinary	extraordinarily
+extreme	->	extreme	extremely
+fade	->	fade	fading	fades	faded
+faint	->	faint	faints	faintly	fainting	fainter	fainted	faintness
+false	->	false	falsely	falsehood
+fan	->	fan	fans	fanning	fanned
+fancy	->	fancy	fancied	fancier	fancies	fanciest	fancily	fanciness	fancying
+fashion	->	fashion	fashionable	fashioned	fashioning	fashions
+fasten	->	fasten	fastened	fastener	fasteners	fastening	fastens
+fat	->	fat	fats	fatten	fatty
+fate	->	fate	fates
+fault	->	fault	faulty	faults
+feast	->	feast	feasts	feasting	feasted
+feather	->	feather	feathers	feathering	feathered
+female	->	female	females
+fence	->	fence	fencing	fences	fenced
+fever	->	fever	feverish	fevers
+fierce	->	fierce	fiercest	fiercer	fierceness	fiercely
+film	->	film	films	filming	filmed
+finger	->	finger	fingers
+firm	->	firm	firms	firmness	firmly	firmest
+flag	->	flag	flags
+flame	->	flame	flames	flaming
+flash	->	flash	flashing	flashes	flashed
+flat	->	flat	flats	flatten	flattening
+flavour	->	flavour	flavours	flavouring	flavoured	flavor	flavors	flavoring	flavored
+flesh	->	flesh
+float	->	float	floats	floating	floated
+flood	->	flood	floods	flooding	flooded
+flour	->	flour
+fold	->	fold	folds	folding	folded
+fond	->	fond	fondness	fondly	fondest	fonder
+fool	->	fool	fools	foolishness	foolishly	foolish	fooling	fooled
+foot	->	foot	feet	football	footballs
+forbid	->	forbid	forbids	forbidding	forbidden
+forgive	->	forgive	forgiving	forgives	forgiven	forgave
+fork	->	fork	forks
+formal	->	formal	formally	formality
+forward	->	forward	forwards
+frame	->	frame	framing	frames	framed
+freeze	->	freeze	frozen	freezing	freezes
+frequent	->	frequent	frequents	frequently	frequenting	frequented	frequency	infrequent	infrequently
+fright	->	fright	frights	frightful	frightens	frightening	frightened	frighten
+fruit	->	fruit	fruits
+fry	->	fry	frying	fries	fried
+fun	->	fun	funny	funniest	funnier
+funeral	->	funeral	funerals
+fur	->	fur	furs
+gallon	->	gallon	gallons
+gap	->	gap	gaps
+garage	->	garage	garages
+gay	->	gay	gayness	gayest	gayer	gaily	gaiety
+generous	->	generous	generously	generosity
+glory	->	glory	glories	glorious
+goat	->	goat	goats
+govern	->	govern	govt	governs	governor	governing	governed	government	governments	governmental
+grace	->	grace	gracing	graces	gracefully	graceful	graced
+gradual	->	gradual	gradually
+grain	->	grain	grains
+gram	->	gram	grams
+grammar	->	grammar	grammars
+grand	->	grand	grandsons	grandson	grandparents	grandparent	grandpa	grandmother	grandma	grandfather	granddaughters	granddaughter	grandchildren	grandchild
+grass	->	grass	grasses	grassy
+grateful	->	grateful	gratefully
+grave	->	grave	graves
+grease	->	grease	greasing	greases	greased	greasy
+greed	->	greed	greedy	greedily
+greet	->	greet	greetings	greets	greeting	greeted
+grey	->	grey
+grind	->	grind	grinds	grinding
+guard	->	guard	guarded	guarding	guards
+guess	->	guess	guessing	guesses	guessed
+guest	->	guest	guests
+guide	->	guide	guiding	guides	guided
+guilty	->	guilty	guiltily	guilt	guiltless
+gun	->	gun	guns	gunner
+habit	->	habit	habits	habitual	habitually
+hair	->	hair	hairy	hairs
+hall	->	hall	halls
+hammer	->	hammer	hammers	hammering	hammered
+handkerchief	->	handkerchief	handkerchiefs
+handle	->	handle	handled	handles	handling
+harbor	->	harbor	harbours	harbour	harbors
+harm	->	harm	harms	harmless	harming	harmful	harmed
+harvest	->	harvest	harvests	harvesting	harvester	harvested
+haste	->	haste	hastily	hastens	hastening	hastened	hasten
+hat	->	hat	hats
+hate	->	hate	hatred	hating	hates	hated
+hay	->	hay
+heal	->	heal	heals	healing	healed
+health	->	health	healthier	healthiest	healthily	healthy
+heap	->	heap	heaps	heaping	heaped
+hesitate	->	hesitate	hesitating	hesitates	hesitated	hesitation	hesitations
+hide	->	hide	hid	hidden	hides	hiding
+hinder	->	hinder	hinders	hindering	hindered
+hire	->	hire	hiring	hires	hired
+hit	->	hit	hitting	hitter	hits
+hole	->	hole	holes
+holiday	->	holiday	holidays
+hollow	->	hollow	hollows	hollowing	hollowed
+holy	->	holy	holiness	holiest	holier
+honest	->	honest	honesty	honestly	dishonest
+hook	->	hook	hooks	hooking	hooked
+horizon	->	horizon	horizons
+hospital	->	hospital	hospitals
+host	->	host	hosts	hosting	hosted
+hotel	->	hotel	hotels
+hullo	->	hullo	hello	hey	hi
+humble	->	humble	humbly	humbling	humbles	humbled
+hunger	->	hunger	hungry	hungrily	hungers	hungering
+hunt	->	hunt	hunts	hunting	hunters	hunter	hunted
+hurrah	->	hurrah
+hurry	->	hurry	hurrying	hurries	hurriedly	hurried
+hurt	->	hurt	hurts	hurting	hurtful
+hut	->	hut	huts
+ice	->	ice	icy	iced
+ideal	->	ideal	ideals	ideally
+idle	->	idle	idling	idles	idled	idly
+imagine	->	imagine	imagining	imagines	imagined	imagination	imaginations	imaginative	imaginary
+imitate	->	imitate	imitating	imitates	imitated	imitation	imitations
+immediate	->	immediate	immediacy	immediately
+immense	->	immense	immensely
+improve	->	improve	improving	improves	improved	improvement	improvements
+inform	->	inform	informs	informing	informed	information
+informal	->	informal	informally
+ink	->	ink	inks	inky
+inn	->	inn	inns
+inquire	->	inquire	inquiry	inquiring	inquiries	inquires	inquired	enquire	enquiry	enquiring
+insect	->	insect	insects
+inside	->	inside	insider	insiders
+instant	->	instant	instantly
+instrument	->	instrument	instruments	instrumental
+insult	->	insult	insults	insulting	insulted
+insure	->	insure	insuring	insures	insured	insurance
+intend	->	intend	intended	intending	intends	intent	intently	intention	intentions	intentional	intentionally
+interfere	->	interfere	interfering	interferes	interfered	interference
+international	->	international	internationally
+interrupt	->	interrupt	interrupts	interrupting	interrupted
+invent	->	invent	invents	inventors	inventor	inventing	invented	invention	inventions
+invite	->	invite	inviting	invites	invited	invitation	invitations
+inward	->	inward	inwardly
+island	->	island	islands
+jaw	->	jaw	jaws
+jealous	->	jealous	jealously	jealousy
+jewel	->	jewel	jewels	jewellers	jeweller	jewellery
+joke	->	joke	jokes	joked	joking
+journey	->	journey	journeys	journeying	journeyed
+juice	->	juice	juices	juicy
+jump	->	jump	jumps	jumping	jumped
+key	->	key	keys
+kick	->	kick	kicks	kicking	kicked
+kilogram	->	kilogram	kilograms
+kilometre	->	kilometre	kilometres
+kiss	->	kiss	kissing	kisses	kissed
+kitchen	->	kitchen	kitchens
+knee	->	knee	knees
+kneel	->	kneel	kneels	kneeling	kneeled
+knife	->	knife	knives
+knock	->	knock	knocks	knocking	knocked
+knot	->	knot	knotting	knotted	knots
+ladder	->	ladder	ladders
+lamp	->	lamp	lamps
+lazy	->	lazy	laziness	lazily	laziest	lazier
+leaf	->	leaf	leafy
+lean	->	lean	leans	leaning	leaned
+leather	->	leather	leathers
+leg	->	leg	legs
+lend	->	lend	lent	lends	lending
+lesson	->	lesson	lessons
+liberty	->	liberty	liberties
+lid	->	lid	lids
+limb	->	limb	limbs
+liquid	->	liquid	liquids
+list	->	list	unlisted	lists	listed	listing
+litre	->	litre	litres
+load	->	load	unloads	unloading	unloaded	loads	loading	loaded
+loaf	->	loaf	loaves
+loan	->	loan	loans
+lock	->	lock	unlocks	unlocking	unlocked	unlock	locks	locking	locked
+lodging	->	lodging	lodgings
+log	->	log	logs
+lone	->	lone	lonely	loneliness
+loose	->	loose	loosely	loosen
+lot	->	lot	lots
+loud	->	loud	loudness	loudly	loudest	louder
+loyal	->	loyal	loyalty	loyally
+luck	->	luck	lucky	luckily	luckiest	luckier	unlucky	unluckily
+lump	->	lump	lumps
+lunch	->	lunch	lunches
+lung	->	lung	lungs
+mad	->	mad	madness	madly	maddest	madder	madman
+mail	->	mail	mails	mailing	mailed
+male	->	male	males
+manage	->	manage	managing	manages	managers	manager	managed	management
+map	->	map	maps
+mat	->	mat	mats
+match	->	match	matching	matches	matched
+meal	->	meal	meals
+meantime	->	meantime
+meanwhile	->	meanwhile
+meat	->	meat	meats
+mechanic	->	mechanic	mechanics	mechanical	mechanically
+medicine	->	medicine	medicines	medic
+melt	->	melt	melts	melting	melted
+mend	->	mend	mends	mending	mended
+merchant	->	merchant	merchants
+mercy	->	mercy	merciful	mercies
+merry	->	merry	merriness	merriest	merrier	merrily
+message	->	message	messages
+messenger	->	messenger	messengers
+metre	->	metre	metres
+mild	->	mild	mildness	mildly	mildest	milder
+mill	->	mill	mills	milling	miller	milled
+milligram	->	milligram	milligrams
+millilitre	->	millilitre	millilitres
+millimetre	->	millimetre	millimetres
+mineral	->	mineral	minerals
+miserable	->	miserable	miserably
+mistake	->	mistake	mistaking	mistakes	mistakenly	mistaken	unmistakably	unmistakable
+mix	->	mix	mixtures	mixture	mixing	mixes	mixed
+model	->	model	models	modelling	modelled	modeling	modeled
+moderate	->	moderate	moderately	moderation
+modest	->	modest	modesty	modestly
+monkey	->	monkey	monkeys
+motion	->	motion	motions	motioning	motioned	motionless
+mouse	->	mouse	mice
+mud	->	mud	muddy
+multiply	->	multiply	multiplying	multiplies	multiplied	multiple	multiplication
+murder	->	murder	murders	murdering	murderers	murderer	murdered
+mystery	->	mystery	mysteriously	mysterious	mysteries
+nail	->	nail	nails	nailing	nailed
+narrow	->	narrow	narrowed	narrower	narrowest	narrowing	narrowly	narrowness	narrows
+neat	->	neat	neatness	neatly	neatest	neater
+neck	->	neck	necks
+needle	->	needle	needling	needles	needled
+neglect	->	neglect	neglects	neglecting	neglected
+nephew	->	nephew	nephews
+nest	->	nest	nests	nesting	nested
+net	->	net	nets
+nice	->	nice	nicest	nicer	niceness	nicely
+niece	->	niece	nieces
+noise	->	noise	noisy	noisily	noises
+nonsense	->	nonsense	nonsensical
+noon	->	noon
+nose	->	nose	noses
+noun	->	noun	nouns
+nuisance	->	nuisance	nuisances
+nurse	->	nurse	nursing	nurses	nursed
+nut	->	nut	nuts
+oar	->	oar	oars
+obey	->	obey	obeys	obeying	obeyed	obedience	obediently	obedient	disobey	disobeyed	disobeying
+ocean	->	ocean	oceans
+offend	->	offend	offenses	offense	offends	offending	offended	offensive	offensively	inoffensive	inoffensively
+omit	->	omit	omitting	omitted	omits	omission	omissions
+onwards	->	onwards	onward
+oppose	->	oppose	opposing	opposes	opposed
+opposite	->	opposite	opposites
+orange	->	orange	oranges	orangish
+organ	->	organ	organs
+origin	->	origin	origins	originates	originated	original	originally	originality
+ornament	->	ornament	ornaments	ornamental
+outline	->	outline	outlined	outlines	outlining
+overcome	->	overcome	overcoming	overcomes	overcame
+pack	->	pack	packs	packing	packed	package	packages
+pad	->	pad	pads	padding	padded
+pain	->	pain	pains	painful	painfully
+pair	->	pair	pairs	pairing	paired
+pale	->	pale	paling	pales	paled	paleness
+pan	->	pan	pans
+parcel	->	parcel	parcels	parcelled
+pardon	->	pardon	pardons	pardoning	pardoned	unpardonable
+parent	->	parent	parents	parental	parentage
+park	->	park	parks	parking	parked
+permanent	->	permanent	permanently
+passage	->	passage	passages
+passenger	->	passenger	passengers
+paste	->	paste	pasting	pastes	pasted
+path	->	path	paths
+patient	->	patient	patiently	patience
+patriotic	->	patriotic
+pattern	->	pattern	patterns	patterned
+pause	->	pause	pausing	pauses	paused
+paw	->	paw	paws
+pearl	->	pearl	pearls
+peculiar	->	peculiar	peculiarly	peculiarity	peculiarities
+pen	->	pen	pens
+pencil	->	pencil	pencils
+penny	->	penny	pennies
+perfect	->	perfect	perfected	perfecting	perfectly	perfects	perfection
+perform	->	perform	performs	performing	performers	performed	performance	performances
+persuade	->	persuade	persuasion	persuades	persuaded	persuading	persuasive	persuasively
+pet	->	pet	pets
+photograph	->	photograph	photography	photographs	photographing	photographers	photographer	photographed
+pick	->	pick	picks	picking	pickers	picker	picked
+pig	->	pig	pigs
+pigeon	->	pigeon	pigeons
+pile	->	pile	piling	piles	piled
+pin	->	pin	pins	pinned	pinning
+pinch	->	pinch	pinching	pinches	pinched
+pink	->	pink	pinkness	pinkest	pinker
+pint	->	pint	pints
+pipe	->	pipe	pipes
+pity	->	pity	pitying	pities	pitied
+plane	->	plane	planes
+plaster	->	plaster	plasters	plastering	plastered
+plate	->	plate	plates
+plenty	->	plenty	plentiful
+plough	->	plough	ploughs	ploughing	ploughed
+plural	->	plural	plurals
+pocket	->	pocket	pockets
+poem	->	poem	poetry	poetic	poet	poems
+poison	->	poison	poisons	poisonous	poisoning	poisoned
+police	->	police	policing	policewomen	polices	policemen	policeman	policed
+polish	->	polish	polishing	polishes	polished
+polite	->	polite	politest	politer	politeness
+pool	->	pool	pools	pooling
+postpone	->	postpone	postponing	postpones	postponed
+pot	->	pot	potting	potted	pots
+pour	->	pour	pours	pouring	poured
+powder	->	powder	powders	powdery
+practical	->	practical	practically
+practise	->	practise	practises	practised	practising	practice	practices
+praise	->	praise	praising	praises	praised
+pray	->	pray	prays	praying	prayers	prayer	prayed
+preach	->	preach	preaching	preaches	preachers	preacher	preached
+precious	->	precious
+prefer	->	prefer	prefers	preferring	preferred	preferable	preference	preferences	preferential
+prejudice	->	prejudice	prejudices	prejudiced	unprejudiced
+preserve	->	preserve	preserved	preserves	preserving	preservation
+pretend	->	pretend	pretends	pretending	pretended	pretence
+pride	->	pride	prides
+priest	->	priest	priests
+print	->	print	printed	printers	printing	prints	reprint	reprints	reprinting	reprinted
+prison	->	prison	prisons	prisoners	prisoner	imprison
+prize	->	prize	prized	prizes
+probable	->	probable	probably	probability	probabilities	improbable
+procession	->	procession	processions
+profession	->	profession	professions
+programme	->	programme	program	programed	programing	programmed	programmes	programming	programs
+prompt	->	prompt	prompts	promptly	prompting	prompted
+pronounce	->	pronounce	pronouncing	pronounces	pronounced
+proud	->	proud	proudly	proudest	prouder
+pump	->	pump	pumps	pumping	pumped
+punctual	->	punctual	punctually	punctuality
+punish	->	punish	punishing	punishes	punished	punishment	punishments
+pupil	->	pupil	pupils
+pure	->	pure	purest	purer	pureness	purely	impure	impurity
+purple	->	purple	purplish
+push	->	push	pushing	pushes	pushed
+puzzle	->	puzzle	puzzling	puzzles	puzzled
+qualify	->	qualify	qualifying	qualifies	qualified	qualification	qualifications
+quarrel	->	quarrel	quarrels	quarrelling	quarrelled	quarreling	quarreled
+quart	->	quart	quarts
+quick	->	quick	quickness	quickly	quickest	quicker
+quiet	->	quiet	quieter	quietest	quietly	quietness
+rabbit	->	rabbit	rabbits
+radio	->	radio	radios	radioed
+rail	->	rail	railways	railway	rails	railroads	railroad
+rain	->	rain	rains	raining	rained	raindrops	raindrop
+rake	->	rake	raking	rakes	raked
+rapid	->	rapid	rapidly	rapidity
+rare	->	rare	rarest	rarer	rareness	rarely
+rat	->	rat	rats
+raw	->	raw	rawness	rawest	rawer
+ray	->	ray	rays
+razor	->	razor	razors
+recommend	->	recommend	recommends	recommending	recommended	recommendation	recommendations
+refer	->	refer	refers	referring	referred
+reflect	->	reflect	reflects	reflecting	reflected	reflective	reflection	reflections
+refresh	->	refresh	refreshes	refreshing	refreshed	refreshment
+regular	->	regular	irregular	regularly	irregularly
+regret	->	regret	regretting	regretful	regretted	regrets
+rejoice	->	rejoice	rejoicing	rejoices	rejoiced
+relieve	->	relieve	relieving	relieves	relieved	relief
+remedy	->	remedy	remedying	remedies	remedied
+remind	->	remind	reminds	reminding	reminded	reminder
+rent	->	rent	renting	rented	rents
+repair	->	repair	repairs	repairing	repaired
+repeat	->	repeat	repeated	repeatedly	repeating	repeats
+replace	->	replace	replacing	replaces	replaced	replacement	replacements	replaceable	irreplaceable
+reproduce	->	reproduce	reproduces	reproducing	reproduced	reproduction	reproductions
+reputation	->	reputation	reputations
+request	->	request	requests	requesting	requested
+rescue	->	rescue	rescuing	rescues	rescued
+resign	->	resign	resigns	resigning	resigned	resignation	resignations
+resist	->	resist	resists	resisting	resisted	resistible	resistance
+responsible	->	responsible	irresponsible	responsibility	responsibilities
+restaurant	->	restaurant	restaurants
+retire	->	retire	retiring	retires	retired	retirement
+revenge	->	revenge	revenges
+review	->	review	reviews	reviewing	reviewed
+reward	->	reward	rewards	rewarding	rewarded
+ribbon	->	ribbon	ribbons
+rice	->	rice
+rid	->	rid	rids	ridding	ridded
+ripe	->	ripe	ripest	riper	ripeness
+risk	->	risk	risks	risking	risked	risky
+rival	->	rival	rivals	rivalry	rivalries	rivalling	rivalled
+roar	->	roar	roars	roaring	roared
+roast	->	roast	roasts	roasting	roasted
+rob	->	rob	robs	robbing	robber	robbed	robbers
+rod	->	rod	rods
+roof	->	roof	roofs
+root	->	root	roots	rooted
+rope	->	rope	ropes
+rot	->	rot	rotting	rotted	rots	rotten
+row	->	row	rows	rowing	rowed
+rub	->	rub	rubs	rubbing	rubbed
+rubber	->	rubber	rubbers
+rubbish	->	rubbish
+rude	->	rude	rudest	ruder	rudeness	rudely
+rug	->	rug	rugs
+ruin	->	ruin	ruined	ruining	ruins
+rush	->	rush	rushed	rushes	rushing
+rust	->	rust	rusty	rusts	rusting	rusted
+sacred	->	sacred	sacredness
+sacrifice	->	sacrifice	sacrificing	sacrifices	sacrificed	sacrificial
+sad	->	sad	sadness	sadly	saddest	sadder	sadden
+saddle	->	saddle	saddling	saddles	saddled
+sake	->	sake	sakes
+salary	->	salary	salaries
+sample	->	sample	sampling	samples	sampled
+sand	->	sand	sandy	sands
+satisfy	->	satisfy	satisfying	satisfies	satisfied	satisfactory	satisfaction	dissatisfaction	dissatisfying	dissatisfy	dissatisfies	dissatisfied
+sauce	->	sauce	sauces
+saucer	->	saucer	saucers
+saws	->	saws	sawing	sawed
+scale	->	scale	scales
+scatter	->	scatter	scatters	scattering	scattered
+scent	->	scent	scents	scenting	scented
+scissors	->	scissors
+scold	->	scold	scolds	scolding	scolded
+scorn	->	scorn	scorns	scorning	scorned	scornful	scornfully
+scrape	->	scrape	scraping	scrapes	scraped
+scratch	->	scratch	scratching	scratches	scratched
+screen	->	screen	screens	screening	screened
+screw	->	screw	screws	screwing	screwed
+search	->	search	searching	searches	searched
+seed	->	seed	seeds	seeding	seeded	seedling
+seize	->	seize	seized	seizes	seizing
+seldom	->	seldom
+self	->	self	selfishness	selfishly	selfish	selves
+sentence	->	sentence	sentences
+severe	->	severe	severity	severest	severer	severeness	severely
+sew	->	sew	sews	sewn	sewing	sewed
+shade	->	shade	shadings	shading	shades	shaded
+shallow	->	shallow	shallowness	shallowest	shallower
+shame	->	shame	shaming	shames	shameful	shamefully	shamed
+sharp	->	sharp	sharpness	sharply	sharpest	sharper	sharpens	sharpening	sharpened	sharpen
+shave	->	shave	shaved	shaving	shaves
+sheep	->	sheep
+sheet	->	sheet	sheets
+shelf	->	shelf	shelves
+shell	->	shell	shells	shelling	shelled
+shelter	->	shelter	shelters	sheltering	sheltered
+shield	->	shield	shields	shielding	shielded
+shilling	->	shilling	shillings
+shirt	->	shirt	shirts
+shock	->	shock	shocks	shocking	shocked
+shoe	->	shoe	shoed	shoeing	shoes
+shop	->	shop	shops	shopping	shoppers	shopper	shopped
+shout	->	shout	shouted	shouting	shouts
+shower	->	shower	showers	showering	showered
+shut	->	shut	shutting	shuts
+sick	->	sick	sickness	sickly	sickest	sicker
+signal	->	signal	signals	signalling	signalled
+silk	->	silk	silks
+sincere	->	sincere	sincerely	sincerity
+sink	->	sink	sunk	sinks	sinking	sank
+skill	->	skill	skilled	skills	skilful	skilfully
+skin	->	skin	skins	skinning	skinned
+skirt	->	skirt	skirts
+slave	->	slave	slaves	slavery
+slide	->	slide	sliding	slides	slid
+slight	->	slight	slighted	slighter	slightest	slighting	slightly	slights
+slow	->	slow	slowed	slower	slowest	slowing	slowly	slows
+slip	->	slip	slips	slipping	slipped
+slope	->	slope	sloping	slopes	sloped
+smell	->	smell	smelt	smells	smelling	smelled
+smoke	->	smoke	smoking	smokes	smokers	smokeless	smoked
+smooth	->	smooth	smooths	smoothly	smoothing	smoothed
+snake	->	snake	snakes
+soap	->	soap	soaps
+sock	->	sock	socks
+soil	->	soil	soiled	soiling	soils
+solemn	->	solemn	solemnly
+solid	->	solid	solidify	solidly	solids
+solve	->	solve	solving	solves	solved	solution	solutions
+sore	->	sore	sores
+sorry	->	sorry	sorriness	sorriest	sorrier
+soup	->	soup	soups
+sour	->	sour	sours	sourly	souring	soured
+sow	->	sow	sows	sowing	sowed
+spade	->	spade	spades
+spare	->	spare	sparing	spares	spared
+spell	->	spell	spelt	spells	spelling	spelled	misspelt
+spill	->	spill	spills	spilling	spilled
+spin	->	spin	spun	spins	spinning
+spit	->	spit	spits	spitting	spat
+splendid	->	splendid	splendidly
+split	->	split	splitting	splits
+spoil	->	spoil	spoils	spoiling	spoiled
+spoon	->	spoon	spoons	spoonful
+sport	->	sport	sporting	sports
+staff	->	staff	staffs
+stain	->	stain	stains	staining	stained
+stairs	->	stairs	upstairs	downstairs
+stamp	->	stamp	stamps	stamping	stamped
+steady	->	steady	unsteady	unsteadily	steadying	steadily	steadies	steadied
+steal	->	steal	stole	stolen	steals	stealing
+steam	->	steam	steams	steaming	steamed
+steep	->	steep	steepness	steepest	steeper
+steer	->	steer	steers	steering	steered
+stem	->	stem	stems	stemmed
+stick	->	stick	sticking	sticks	stuck
+stiff	->	stiff	stiffness	stiffest	stiffer	stiffens	stiffening	stiffened	stiffen
+sting	->	sting	stung	stings	stinging
+stir	->	stir	stirs	stirring	stirred
+stocking	->	stocking	stockings
+stomach	->	stomach	stomachs
+storm	->	storm	stormed	storming	storms
+stove	->	stove	stoves
+straight	->	straight	straightened	straightening	straightens	straighter	straightest
+strap	->	strap	straps	strapping	strapped
+straw	->	straw	straws
+stretch	->	stretch	stretched	stretches	stretching
+strict	->	strict	strictness	strictly	strictest	stricter
+string	->	string	strings	stringing	stringed
+strip	->	strip	strips	stripped	stripping
+stripe	->	stripe	stripes	striped	striping
+stuff	->	stuff	stuffs	stuffing	stuffed
+stupid	->	stupid	stupidity	stupidly	stupidest	stupider
+suck	->	suck	sucks	sucking	sucked
+sudden	->	sudden	suddenly	suddenness
+sugar	->	sugar	sugars	sugary
+suit	->	suit	suits	suiting	suited	suitability	suitable	unsuitable
+supper	->	supper	suppers
+suspect	->	suspect	suspects	suspecting	suspected	unsuspecting
+suspicion	->	suspicion	suspicions	suspicious	suspiciously
+swallow	->	swallow	swallows	swallowing	swallowed
+swear	->	swear	sworn	swore	swears	swearing
+sweat	->	sweat	sweats	sweating	sweated
+sweep	->	sweep	swept	sweeps	sweeping
+swell	->	swell	swollen	swells	swelling	swelled
+swim	->	swim	swum	swims	swimming	swam
+swing	->	swing	swung	swings	swinging
+sympathy	->	sympathy	sympathies	sympathetic	sympathetically
+tail	->	tail	tails
+tailor	->	tailor	tailors	tailoring	tailored
+tall	->	tall	tallest	taller
+tame	->	tame	taming	tames	tamed
+tap	->	tap	taps	tapping	tapped
+taste	->	taste	tasted	tastes	tasting
+taxi	->	taxi	taxis
+tea	->	tea	teas
+telegraph	->	telegraph	telegraphs	telegraphing	telegraphed
+telephone	->	telephone	telephoning	telephones	telephoned	phones	phoning	phoned	phone
+temper	->	temper	tempers
+temperature	->	temperature	temperatures
+tempt	->	tempt	tempts	tempting	tempted
+tend	->	tend	tends	tended	tendency	tendencies
+tender	->	tender	tenderness	tenderly
+tent	->	tent	tents
+terrible	->	terrible	terribly
+thank	->	thank	thanks	thanking	thankfully	thankful	thanked
+theatre	->	theatre	theatres	theatrical
+thick	->	thick	thickness	thickly	thickest	thicker
+thief	->	thief	thieves
+thin	->	thin	thins	thinning	thinnest	thinness	thinner	thinned	thinly
+thirst	->	thirst	thirsts
+thorn	->	thorn	thorns
+thorough	->	thorough	thoroughness	thoroughly
+thread	->	thread	threads	threading	threaded
+threat	->	threat	threats	threatens	threatening	threatened	threaten
+throat	->	throat	throats
+thumb	->	thumb	thumbs
+thunder	->	thunder	thunders	thundering	thundered
+ticket	->	ticket	tickets
+tide	->	tide	tides	tidal
+tidy	->	tidy	tidying	tidies	tidied
+tie	->	tie	untied	untie	tying	ties	tied
+tight	->	tight	tightness	tightest	tighter	tightly	tightens	tightening	tightened	tighten
+tin	->	tin	tins
+tip	->	tip	tips	tipping	tipped
+tire	->	tire	tiring	tires	tired
+title	->	title	titled	titles
+tobacco	->	tobacco	tobaccos
+toe	->	toe	toes
+tomorrow	->	tomorrow
+tongue	->	tongue	tongues
+tonight	->	tonight
+tool	->	tool	tools
+tooth	->	tooth	teeth	toothless
+tough	->	tough	toughness	toughest	tougher
+tour	->	tour	tours	touring	toured	tourist	tourists
+towel	->	towel	towels
+tower	->	tower	towers	towering
+toy	->	toy	toys
+track	->	track	tracks	tracking	tracked
+translate	->	translate	translating	translates	translated	translation	translations
+trap	->	trap	traps	trapping	trapped
+tray	->	tray	trays
+treasure	->	treasure	treasuring	treasures	treasured	treasury	treasurer
+treat	->	treat	treats	treating	treated	treatment	treatments
+tremble	->	tremble	trembling	trembles	trembled
+tribe	->	tribe	tribes
+trick	->	trick	trickster	tricks	tricking	tricked
+trip	->	trip	trips	tripping	tripped
+trunk	->	trunk	trunks
+tube	->	tube	tubes
+tune	->	tune	tuning	tunes	tuned
+twist	->	twist	twists	twisting	twisted
+typical	->	typical	typically
+ugly	->	ugly	ugliness	ugliest	uglier
+umbrella	->	umbrella	umbrellas
+uncle	->	uncle	uncles
+universe	->	universe	universal
+upper	->	upper
+upright	->	upright
+upset	->	upset	upsetting	upsets
+upwards	->	upwards	upward
+urge	->	urge	urging	urges	urged
+vain	->	vain	vainly	vainest	vainer
+veil	->	veil	veils	veiling	veiled
+verb	->	verb	verbs
+verse	->	verse	verses
+violent	->	violent	violently	violence	nonviolent
+vowel	->	vowel	vowels
+voyage	->	voyage	voyaging	voyages	voyaged
+waist	->	waist	waists
+wake	->	wake	woke	waking	wakes	waken	woken
+wander	->	wander	wanders	wandering	wandered
+warm	->	warm	warms	warmly	warming	warmed	warmth
+warn	->	warn	warned	warning	warns
+wash	->	wash	washed	washes	washing
+waste	->	waste	wasted	wastes	wasting	wasteful	wastefully
+wax	->	wax	waxing	waxes	waxed
+weak	->	weak	weakly	weakness	weaken
+weapon	->	weapon	weapons
+weather	->	weather	weathers	weathering	weathered
+weave	->	weave	wove	weaving	weaves	weaved
+weed	->	weed	weeds	weeding	weeded
+weigh	->	weigh	weights	weight	weighs	weighing	weighed
+wet	->	wet	wetting	wets
+wheat	->	wheat	wheats
+wheel	->	wheel	wheels	wheeler	wheeled
+whip	->	whip	whips	whipping	whipped
+whisper	->	whisper	whispers	whispering	whispered
+whistle	->	whistle	whistling	whistles	whistled
+wicked	->	wicked	wickedness	wickedest	wickeder	wickedly
+widow	->	widow	widows	widower	widowed
+wine	->	wine	wining	wines	wined
+wing	->	wing	wings	winging	winged
+wipe	->	wipe	wiping	wipes	wiped	wiper	wipers
+wire	->	wire	wiring	wires	wired
+witness	->	witness	witnessing	witnesses	witnessed
+wool	->	wool	wools	woollen	woolly
+worm	->	worm	worms	worming	wormed
+worry	->	worry	worrying	worries	worried
+worse	->	worse	worst	worsen
+worship	->	worship	worshipping	worships	worshipped
+wrap	->	wrap	wrapping	wraps	wrapper	wrappers	wrapped
+wreck	->	wreck	wrecked	wrecking	wrecks
+wrist	->	wrist	wrists
+yard	->	yard	yards
+yellow	->	yellow	yellowish
+zero	->	zero	zeros
+abandon	->	abandon	abandoned	abandoning	abandonment	abandons
+abstract	->	abstract	abstraction	abstractions	abstractly	abstracts
+academy	->	academy	academia	academic	academically	academics	academies
+access	->	access	accessed	accesses	accessibility	accessible	accessing	inaccessible
+accommodate	->	accommodate	accommodated	accommodates	accommodating	accommodation
+accompany	->	accompany	accompanied	accompanies	accompaniment	accompanying	unaccompanied
+accumulate	->	accumulate	accumulated	accumulating	accumulation	accumulates
+accurate	->	accurate	accuracy	accurately	inaccuracy	inaccuracies	inaccurate
+achieve	->	achieve	achievable	achieved	achievement	achievements	achieves	achieving
+acknowledge	->	acknowledge	acknowledged	acknowledges	acknowledging	acknowledgement	acknowledgements
+acquire	->	acquire	acquired	acquires	acquiring	acquisition	acquisitions
+adapt	->	adapt	adaptability	adaptable	adaptation	adaptations	adapted	adapting	adaptive	adapts
+adequate	->	adequate	adequacy	adequately	inadequacies	inadequacy	inadequate	inadequately
+adjacent	->	adjacent
+adjust	->	adjust	adjusted	adjusting	adjustment	adjustments	adjusts	readjust	readjusted	readjusting	readjustment	readjustments	readjusts
+administrate	->	administrate	administrates	administration	administrations	administrative	administratively	administrator	administrators
+adult	->	adult	adulthood	adults
+advocate	->	advocate	advocacy	advocated	advocates	advocating
+affect	->	affect	affected	affecting	affective	affectively	affects	unaffected
+aggregate	->	aggregate	aggregated	aggregates	aggregating	aggregation
+aid	->	aid	aided	aiding	aids	unaided
+albeit	->	albeit
+allocate	->	allocate	allocated	allocates	allocating	allocation	allocations
+alter	->	alter	alterable	alteration	alterations	altered	altering	alternate	alternating	alters	unalterable	unaltered
+alternative	->	alternative	alternatively	alternatives
+ambiguous	->	ambiguous	ambiguities	ambiguity	unambiguous	unambiguously
+amend	->	amend	amended	amending	amendment	amendments	amends
+analogy	->	analogy	analogies	analogous
+analyse	->	analyse	analysed	analyser	analysers	analyses	analysing	analysis	analyst	analysts	analytic	analytical	analytically	analyze	analyzed	analyzes	analyzing
+annual	->	annual	annually
+anticipate	->	anticipate	anticipated	anticipates	anticipating	anticipation	unanticipated
+apparent	->	apparent	apparently
+append	->	append	appendix	appended	appends	appending	appendices	appendixes
+appreciate	->	appreciate	appreciable	appreciably	appreciated	appreciates	appreciating	appreciation	unappreciated
+approach	->	approach	approachable	approached	approaches	approaching	unapproachable
+appropriate	->	appropriate	appropriacy	appropriately	appropriateness	inappropriacy	inappropriate	inappropriately
+approximate	->	approximate	approximated	approximately	approximates	approximating	approximation	approximations
+arbitrary	->	arbitrary	arbitrariness	arbitrarily
+area	->	area	areas
+aspect	->	aspect	aspects
+assemble	->	assemble	assembled	assembles	assemblies	assembling	assembly
+assess	->	assess	assessable	assessed	assesses	assessing	assessment	assessments	reassess	reassessed	reassessing	reassessment	unassessed
+assign	->	assign	assigned	assigning	assignment	assignments	assigns	reassign	reassigned	reassigning	reassigns	unassigned
+assist	->	assist	assistance	assistant	assistants	assisted	assisting	assists	unassisted
+assume	->	assume	assumed	assumes	assuming	assumption	assumptions
+assure	->	assure	assurance	assurances	assured	assuredly	assures	assuring
+attach	->	attach	attached	attaches	attaching	attachment	attachments	unattached
+attain	->	attain	attainable	attained	attaining	attainment	attainments	attains	unattainable
+attitude	->	attitude	attitudes
+attribute	->	attribute	attributable	attributed	attributes	attributing	attribution
+author	->	author	authored	authoring	authors	authorship
+authority	->	authority	authoritative	authorities
+automate	->	automate	automatic	automated	automates	automating	automatically	automation
+available	->	available	availability	unavailable
+aware	->	aware	awareness	unaware
+behalf	->	behalf
+benefit	->	benefit	beneficial	beneficiary	beneficiaries	benefited	benefiting	benefits
+bias	->	bias	biased	biases	biasing	unbiased
+bond	->	bond	bonded	bonding	bonds
+brief	->	brief	brevity	briefed	briefing	briefly	briefs
+bulk	->	bulk	bulky
+capable	->	capable	capabilities	capability	incapable
+capacity	->	capacity	capacities	incapacitate	incapacitated
+category	->	category	categories	categorisation	categorise	categorised	categorises	categorising	categorization	categorized	categorizes	categorizing
+cease	->	cease	ceased	ceaseless	ceases	ceasing
+challenge	->	challenge	challenged	challenger	challengers	challenges	challenging
+channel	->	channel	channelled	channelling	channels
+chapter	->	chapter	chapters
+chart	->	chart	charted	charting	charts	uncharted
+chemical	->	chemical	chemically	chemicals
+circumstance	->	circumstance	circumstances
+cite	->	cite	citation	citations	cited	citing	cites
+civil	->	civil
+clarify	->	clarify	clarification	clarified	clarifies	clarifying	clarity
+classic	->	classic	classical	classics
+clause	->	clause	clauses
+code	->	code	coded	codes	coding
+coherent	->	coherent	coherence	coherently	incoherent	incoherently
+coincide	->	coincide	coincided	coincides	coinciding	coincidence	coincidences	coincident	coincidental
+collapse	->	collapse	collapsed	collapses	collapsible	collapsing
+colleague	->	colleague	colleagues
+commence	->	commence	commenced	commences	commencement	commencing	recommences	recommenced	recommencing
+comment	->	comment	commentaries	commentary	commentator	commentators	commented	commenting	comments
+commission	->	commission	commissioned	commissioner	commissioners	commissioning	commissions
+commit	->	commit	commitment	commitments	commits	committed	committing
+commodity	->	commodity	commodities
+communicate	->	communicate	communicable	communicated	communicates	communicating	communication	communications	communicative	communicatively	uncommunicative
+community	->	community	communities
+compatible	->	compatible	compatibility	incompatibility	incompatible
+compensate	->	compensate	compensated	compensates	compensating	compensation	compensations	compensatory
+compile	->	compile	compilation	compilations	compiled	compiles	compiling
+complement	->	complement	complementary	complemented	complementing	complements
+complex	->	complex	complexities	complexity
+component	->	component	componentry	components
+compound	->	compound	compounded	compounding	compounds
+comprehensive	->	comprehensive	comprehensively
+comprise	->	comprise	comprised	comprises	comprising
+compute	->	compute	computation	computational	computations	computable	computer	computed	computerised	computers	computing
+conceive	->	conceive	conceivable	conceivably	conceived	conceives	conceiving	inconceivable	inconceivably
+concentrate	->	concentrate	concentrated	concentrates	concentrating	concentration
+concept	->	concept	conception	concepts	conceptual	conceptualisation	conceptualise	conceptualised	conceptualises	conceptualising	conceptually
+conclude	->	conclude	concluded	concludes	concluding	conclusion	conclusions	conclusive	conclusively	inconclusive	inconclusively
+concurrent	->	concurrent	concurrently
+conduct	->	conduct	conducted	conducting	conducts
+confer	->	confer	conference	conferences	conferred	conferring	confers
+confine	->	confine	confined	confines	confining	unconfined
+confirm	->	confirm	confirmation	confirmed	confirming	confirms
+conflict	->	conflict	conflicted	conflicting	conflicts
+conform	->	conform	conformable	conformability	conformance	conformation	conformed	conforming	conformist	conformists	conformity	conforms	nonconformist	nonconformists	nonconformity	non-conformist	non-conformists	non-conformity
+consent	->	consent	consensus	consented	consenting	consents
+consequent	->	consequent	consequence	consequences	consequently
+considerable	->	considerable	considerably
+consist	->	consist	consisted	consistency	consistent	consistently	consisting	consists	inconsistencies	inconsistency	inconsistent
+constant	->	constant	constancy	constantly	constants	inconstancy	inconstantly
+constitute	->	constitute	constituencies	constituency	constituent	constituents	constituted	constitutes	constituting	constitution	constitutions	constitutional	constitutionally	constitutive	unconstitutional
+constrain	->	constrain	constrained	constraining	constrains	constraint	constraints	unconstrained
+construct	->	construct	constructed	constructing	construction	constructions	constructive	constructs	reconstruct	reconstructed	reconstructing	reconstruction	reconstructs
+consult	->	consult	consultancy	consultant	consultants	consultation	consultations	consultative	consulted	consults	consulting
+consume	->	consume	consumed	consumer	consumers	consumes	consuming	consumption
+contact	->	contact	contactable	contacted	contacting	contacts
+contemporary	->	contemporary	contemporaries
+context	->	context	contexts	contextual	contextualise	contextualised	contextualising	uncontextualised	contextualize	contextualized	contextualizing	uncontextualized
+contract	->	contract	contracted	contracting	contractor	contractors	contracts
+contradict	->	contradict	contradicted	contradicting	contradiction	contradictions	contradictory	contradicts
+contrary	->	contrary	contrarily
+contrast	->	contrast	contrasted	contrasting	contrastive	contrasts
+contribute	->	contribute	contributed	contributes	contributing	contribution	contributions	contributor	contributors
+controversy	->	controversy	controversies	controversial	controversially	uncontroversial
+convene	->	convene	convention	convenes	convened	convening	conventional	conventionally	conventions	unconventional
+converse	->	converse	conversely
+convert	->	convert	conversion	conversions	converted	convertible	converting	converts
+convince	->	convince	convinced	convinces	convincing	convincingly	unconvinced
+cooperate	->	cooperate	cooperated	cooperates	cooperating	cooperation	cooperative	cooperatively	co-operate	co-operated	co-operates	co-operation	co-operative	co-operatively
+coordinate	->	coordinate	coordinated	coordinates	coordinating	coordination	coordinator	coordinators	co-ordinate	co-ordinated	co-ordinates	co-ordinating	co-ordination	co-ordinator	co-ordinators
+core	->	core	cores	coring	cored
+corporate	->	corporate	corporates	corporation	corporations
+correspond	->	correspond	corresponded	correspondence	corresponding	correspondingly	corresponds
+couple	->	couple	coupled	coupling	couples
+create	->	create	created	creates	creating	creation	creations	creative	creatively	creativity	creator	creators	recreate	recreated	recreates	recreating
+credit	->	credit	credited	crediting	creditor	creditors	credits
+criteria	->	criteria	criterion
+crucial	->	crucial	crucially
+culture	->	culture	cultural	culturally	cultured	cultures	uncultured
+currency	->	currency	currencies
+cycle	->	cycle	cycled	cycles	cyclic	cyclical	cycling
+data	->	data
+debate	->	debate	debatable	debated	debates	debating
+decade	->	decade	decades
+decline	->	decline	declined	declines	declining
+deduce	->	deduce	deduced	deduces	deducing	deduction	deductions
+define	->	define	definable	defined	defines	defining	definition	definitions	redefine	redefined	redefines	redefining	undefined
+definite	->	definite	definitely	definitive	indefinite	indefinitely
+demonstrate	->	demonstrate	demonstrable	demonstrably	demonstrated	demonstrates	demonstrating	demonstration	demonstrations	demonstrative	demonstratively	demonstrator	demonstrators
+denote	->	denote	denotation	denotations	denoted	denotes	denoting
+deny	->	deny	deniable	denial	denials	denied	denies	denying	undeniable
+depress	->	depress	depressed	depresses	depressing	depression
+derive	->	derive	derivation	derivations	derivative	derivatives	derived	derives	deriving
+design	->	design	designed	designer	designers	designing	designs
+despite	->	despite
+detect	->	detect	detectable	detected	detecting	detection	detective	detectives	detector	detectors	detects
+deviate	->	deviate	deviated	deviates	deviating	deviation	deviations
+device	->	device	devices
+devote	->	devote	devoted	devotedly	devotes	devoting	devotion	devotions
+differentiate	->	differentiate	differentiated	differentiates	differentiating	differentiation
+dimension	->	dimension	dimensional	dimensions	multidimensional
+diminish	->	diminish	diminished	diminishes	diminishing	diminution	undiminished
+discrete	->	discrete	discretely	discretion	discretionary	indiscrete	indiscretion
+discriminate	->	discriminate	discriminated	discriminates	discriminating	discrimination
+displace	->	displace	displaced	displacement	displaces	displacing
+display	->	display	displayed	displaying	displays
+dispose	->	dispose	disposable	disposal	disposed	disposes	disposing
+distinct	->	distinct	distinction	distinctions	distinctive	distinctively	distinctly	indistinct	indistinctly
+distort	->	distort	distorted	distorting	distortion	distortions	distorts
+distribute	->	distribute	distributed	distributing	distribution	distributional	distributions	distributive	distributor	distributors	redistribute	redistributed	redistributes	redistributing	redistribution
+diverse	->	diverse	diversely	diversification	diversified	diversifies	diversify	diversifying	diversity
+document	->	document	documentation	documented	documenting	documents
+domain	->	domain	domains
+domestic	->	domestic	domestically	domesticate	domesticated	domesticating	domestics
+dominate	->	dominate	dominance	dominant	dominated	dominates	dominating	domination
+draft	->	draft	drafted	drafting	drafts	redraft	redrafted	redrafting	redrafts
+drama	->	drama	dramas	dramatic	dramatically	dramatise	dramatised	dramatising	dramatises	dramatisation	dramatisations	dramatist	dramatists	dramatization	dramatizations	dramatize	dramatized	dramatizes	dramatizing
+duration	->	duration
+dynamic	->	dynamic	dynamically	dynamics
+economy	->	economy	economic	economical	economically	economics	economies	economist	economists	uneconomical
+edit	->	edit	edited	editing	edition	editions	editor	editorial	editorials	editors	edits
+element	->	element	elements
+eliminate	->	eliminate	eliminated	eliminates	eliminating	elimination
+emerge	->	emerge	emerged	emergence	emergent	emerges	emerging
+emphasis	->	emphasis	emphasise	emphasised	emphasising	emphasize	emphasized	emphasizes	emphasizing	emphatic	emphatically
+empirical	->	empirical	empirically	empiricism
+enable	->	enable	enabled	enables	enabling
+encounter	->	encounter	encountered	encountering	encounters
+energy	->	energy	energetic	energetically	energies
+enforce	->	enforce	enforced	enforcement	enforces	enforcing
+enhance	->	enhance	enhanced	enhancement	enhances	enhancing
+enormous	->	enormous	enormity	enormously
+ensure	->	ensure	ensured	ensures	ensuring
+entity	->	entity	entities
+environment	->	environment	environmental	environmentalist	environmentalists	environmentally	environments
+equate	->	equate	equated	equates	equating	equation	equations
+equip	->	equip	equipment	equipped	equipping	equips
+equivalent	->	equivalent	equivalence
+erode	->	erode	eroded	erodes	eroding	erosion
+error	->	error	erroneous	erroneously	errors
+establish	->	establish	disestablish	disestablished	disestablishes	disestablishing	disestablishment	established	establishes	establishing	establishment	establishments
+estate	->	estate	estates
+estimate	->	estimate	estimated	estimates	estimating	estimation	estimations	over-estimate	overestimate	overestimated	overestimates	overestimating	underestimate	underestimated	underestimates	underestimating
+ethic	->	ethic	ethical	ethically	ethics	unethical
+ethnic	->	ethnic	ethnicity
+evaluate	->	evaluate	evaluated	evaluates	evaluating	evaluation	evaluations	evaluative	re-evaluate	re-evaluated	re-evaluates	re-evaluating	re-evaluation
+eventual	->	eventual	eventuality	eventually
+evident	->	evident	evidenced	evidence	evidential	evidently
+evolve	->	evolve	evolution	evolved	evolving	evolves	evolutionary	evolutionist	evolutionists
+exceed	->	exceed	exceeded	exceeding	exceeds
+exclude	->	exclude	excluded	excludes	excluding	exclusion	exclusionary	exclusionist	exclusions	exclusive	exclusively
+exhibit	->	exhibit	exhibited	exhibiting	exhibition	exhibitions	exhibits
+expand	->	expand	expanded	expanding	expands	expansion	expansionism	expansive
+expert	->	expert	expertise	expertly	experts
+explicit	->	explicit	explicitly
+exploit	->	exploit	exploitation	exploited	exploiting	exploits
+export	->	export	exported	exporter	exporters	exporting	exports
+expose	->	expose	exposed	exposes	exposing	exposure	exposures
+external	->	external	externalisation	externalise	externalised	externalises	externalising	externality	externalization	externalize	externalized	externalizes	externalizing	externally
+extract	->	extract	extracted	extracting	extraction	extracts
+facilitate	->	facilitate	facilitated	facilitates	facilities	facilitating	facilitation	facilitator	facilitators	facility
+factor	->	factor	factored	factoring	factors
+feature	->	feature	featured	features	featuring
+federal	->	federal	federation	federations
+fee	->	fee	fees
+file	->	file	filed	files	filing
+final	->	final	finalise	finalised	finalises	finalising	finalize	finalized	finalizes	finalizing	finality	finally	finals
+finance	->	finance	financed	finances	financial	financially	financier	financiers	financing
+finite	->	finite	infinite	infinitely
+flexible	->	flexible	flexibility	inflexible	inflexibility
+fluctuate	->	fluctuate	fluctuated	fluctuates	fluctuating	fluctuation	fluctuations
+focus	->	focus	focused	focuses	focusing	focussed	focussing	refocus	refocused	refocuses	refocusing	refocussed	refocusses	refocussing
+format	->	format	formatted	formatting	formats
+formula	->	formula	formulae	formulas	formulate	formulated	formulating	formulation	formulations	reformulate	reformulated	reformulating	reformulation	reformulations
+forthcoming	->	forthcoming
+foundation	->	foundation	foundations
+founded	->	founded	founder	founders	founding	unfounded
+framework	->	framework	frameworks
+function	->	function	functional	functionally	functioned	functioning	functions
+fund	->	fund	funded	funder	funders	funding	funds
+fundamental	->	fundamental	fundamentally
+furthermore	->	furthermore
+gender	->	gender	genders
+generate	->	generate	generated	generates	generating
+generation	->	generation	generations
+globe	->	globe	global	globally	globalisation	globalization
+goal	->	goal	goals
+grade	->	grade	graded	grades	grading
+grant	->	grant	granted	granting	grants
+guarantee	->	guarantee	guaranteed	guaranteeing	guarantees
+guideline	->	guideline	guidelines
+hence	->	hence
+hierarchy	->	hierarchy	hierarchical	hierarchies
+highlight	->	highlight	highlighted	highlighting	highlights
+hypothesis	->	hypothesis	hypotheses	hypothesise	hypothesised	hypothesises	hypothesising	hypothesize	hypothesized	hypothesizes	hypothesizing	hypothetical	hypothetically
+identical	->	identical	identically
+identify	->	identify	identifiable	identification	identified	identifies	identifying	identities	identity	unidentifiable
+ideology	->	ideology	ideological	ideologically	ideologies
+ignorant	->	ignorant	ignorance	ignore	ignored	ignores	ignoring
+illustrate	->	illustrate	illustrated	illustrates	illustrating	illustration	illustrations	illustrative
+image	->	image	imagery	images
+immigrate	->	immigrate	immigrant	immigrants	immigrated	immigrates	immigrating	immigration
+impact	->	impact	impacted	impacting	impacts
+implement	->	implement	implementation	implemented	implementing	implements
+implicate	->	implicate	implicated	implicates	implicating	implication	implications
+implicit	->	implicit	implicitly
+imply	->	imply	implied	implies	implying
+impose	->	impose	imposed	imposes	imposing	imposition
+incentive	->	incentive	incentives
+incidence	->	incidence	incident	incidentally	incidents
+incline	->	incline	inclination	inclinations	inclined	inclines	inclining
+income	->	income	incomes
+incorporate	->	incorporate	incorporated	incorporates	incorporating	incorporation
+index	->	index	indexed	indexes	indexing
+indicate	->	indicate	indicated	indicates	indicating	indication	indications	indicative	indicator	indicators
+individual	->	individual	individualised	individuality	individualism	individualist	individualists	individualistic	individually	individuals
+induce	->	induce	induced	induces	inducing	induction
+inevitable	->	inevitable	inevitability	inevitably
+infer	->	infer	inference	inferences	inferred	inferring	infers
+infrastructure	->	infrastructure	infrastructures
+inherent	->	inherent	inherently
+inhibit	->	inhibit	inhibited	inhibiting	inhibition	inhibitions	inhibits
+initial	->	initial	initially
+initiate	->	initiate	initiated	initiates	initiating	initiation	initiations	initiative	initiatives	initiator	initiators
+injure	->	injure	injured	injures	injuries	injuring	injury	uninjured
+innovate	->	innovate	innovation	innovated	innovates	innovating	innovations	innovative	innovator	innovators
+input	->	input	inputs
+insert	->	insert	inserted	inserting	insertion	inserts
+insight	->	insight	insightful	insights
+inspect	->	inspect	inspected	inspecting	inspection	inspections	inspector	inspectors	inspects
+instance	->	instance	instances
+institute	->	institute	instituted	institutes	instituting	institution	institutional	institutionalise	institutionalised	institutionalises	institutionalising	institutionalized	institutionalizes	institutionalizing	institutionally	institutions
+instruct	->	instruct	instruction	instructed	instructing	instructions	instructive	instructor	instructors	instructs
+integral	->	integral
+integrate	->	integrate	integrated	integrates	integrating	integration
+integrity	->	integrity
+intelligence	->	intelligence	intelligent	intelligently	unintelligent
+intense	->	intense	intensely	intenseness	intensification	intensified	intensifies	intensify	intensifying	intension	intensity	intensive	intensively
+interact	->	interact	interacted	interacting	interaction	interactions	interactive	interactively	interacts
+intermediate	->	intermediate
+internal	->	internal	internalise	internalised	internalises	internalising	internalize	internalized	internalizes	internalizing	internally
+interpret	->	interpret	interpretation	interpretations	interpretative	interpreted	interpreting	interpretive	interprets	misinterpret	misinterpretation	misinterpretations	misinterpreted	misinterpreting	misinterprets	reinterpret	reinterpreted	reinterprets	reinterpreting	reinterpretation	reinterpretations
+interval	->	interval	intervals
+intervene	->	intervene	intervened	intervenes	intervening	intervention	interventions
+intrinsic	->	intrinsic	intrinsically
+invest	->	invest	invested	investing	investment	investments	investor	investors	invests	reinvest	reinvested	reinvesting	reinvestment	reinvests
+investigate	->	investigate	investigated	investigates	investigating	investigation	investigations	investigative	investigator	investigators
+invoke	->	invoke	invoked	invokes	invoking
+involve	->	involve	involved	involvement	involves	involving	uninvolved
+isolate	->	isolate	isolated	isolates	isolating	isolation	isolationism
+issue	->	issue	issued	issues	issuing
+item	->	item	itemisation	itemise	itemised	itemises	itemising	items
+job	->	job	jobs
+journal	->	journal	journals
+justify	->	justify	justifiable	justifiably	justification	justifications	justified	justifies	justifying	unjustified
+label	->	label	labeled	labeling	labelled	labelling	labels
+labour	->	labour	labor	labored	labors	laboured	labouring	labours
+layer	->	layer	layered	layering	layers
+lecture	->	lecture	lectured	lecturer	lecturers	lectures	lecturing
+legal	->	legal	illegal	illegality	illegally	legality	legally
+legislate	->	legislate	legislated	legislates	legislating	legislation	legislative	legislator	legislators	legislature
+levy	->	levy	levies
+liberal	->	liberal	liberalise	liberalism	liberalisation	liberalised	liberalises	liberalising	liberalization	liberalize	liberalized	liberalizes	liberalizing	liberate	liberated	liberates	liberation	liberations	liberating	liberator	liberators	liberally	liberals
+licence	->	licence	licences	license	licensed	licensing	licenses	unlicensed
+likewise	->	likewise
+link	->	link	linkage	linkages	linked	linking	links
+locate	->	locate	located	locating	location	locations	relocate	relocated	relocates	relocating	relocation
+logic	->	logic	illogical	illogically	logical	logically	logician	logicians
+maintain	->	maintain	maintained	maintaining	maintains	maintenance
+major	->	major	majorities	majority
+manipulate	->	manipulate	manipulated	manipulates	manipulating	manipulation	manipulations	manipulative
+manual	->	manual	manually	manuals
+margin	->	margin	marginal	marginally	margins
+mature	->	mature	immature	immaturity	maturation	maturational	matured	matures	maturing	maturity
+maximise	->	maximise	max	maximised	maximises	maximising	maximisation	maximize	maximized	maximizes	maximizing	maximization	maximum
+mechanism	->	mechanism	mechanisms
+media	->	media
+mediate	->	mediate	mediated	mediates	mediating	mediation
+medical	->	medical	medically
+medium	->	medium
+mental	->	mental	mentality	mentally
+method	->	method	methodical	methodological	methodologies	methodology	methods
+migrate	->	migrate	migrant	migrants	migrated	migrates	migrating	migration	migrations	migratory
+military	->	military
+minimal	->	minimal	minimalisation	minimalise	minimalises	minimalised	minimalising	minimalist	minimalists	minimalistic	minimalization	minimalize	minimalized	minimalizes	minimalizing	minimally
+minimise	->	minimise	minimised	minimises	minimising	minimize	minimized	minimizes	minimizing
+minimum	->	minimum
+ministry	->	ministry	ministerial	ministries
+minor	->	minor	minorities	minority	minors
+mode	->	mode	modes
+modify	->	modify	modification	modifications	modified	modifies	modifying	unmodified
+monitor	->	monitor	monitored	monitoring	monitors	unmonitored
+motive	->	motive	motivate	motivated	motivates	motivating	motivation	motivations	motives	unmotivated
+mutual	->	mutual	mutually
+negate	->	negate	negative	negated	negates	negating	negatively	negatives
+network	->	network	networked	networking	networks
+neutral	->	neutral	neutralisation	neutralise	neutralised	neutralises	neutralising	neutrality	neutralization	neutralize	neutralized	neutralizes	neutralizing
+nevertheless	->	nevertheless
+nonetheless	->	nonetheless
+norm	->	norm	norms
+normal	->	normal	abnormal	abnormally	normalisation	normalise	normalised	normalises	normalising	normalization	normalize	normalized	normalizes	normalizing	normality	normally
+notion	->	notion	notions
+notwithstanding	->	notwithstanding
+nuclear	->	nuclear
+objective	->	objective	objectively	objectivity
+obtain	->	obtain	obtainable	obtained	obtaining	obtains	unobtainable
+obvious	->	obvious	obviously
+occupy	->	occupy	occupancy	occupant	occupants	occupation	occupational	occupations	occupied	occupier	occupiers	occupies	occupying
+occur	->	occur	occurred	occurrence	occurrences	occurring	occurs	reoccur	reoccurred	reoccurring	reoccurs
+odd	->	odd	odds
+offset	->	offset	offsets	offsetting
+ongoing	->	ongoing
+option	->	option	optional	options
+orient	->	orient	orientate	orientated	orientates	orientation	orientating	oriented	orienting	orients	reorient	reorientation
+outcome	->	outcome	outcomes
+output	->	output	outputs
+overall	->	overall
+overlap	->	overlap	overlapped	overlapping	overlaps
+overseas	->	overseas
+panel	->	panel	panelled	panelling	panels
+paradigm	->	paradigm	paradigms
+paragraph	->	paragraph	paragraphing	paragraphs
+parallel	->	parallel	paralleled	parallelled	parallelling	parallels	unparalleled
+parameter	->	parameter	parameters
+participate	->	participate	participant	participants	participated	participates	participating	participation	participatory
+partner	->	partner	partners	partnership	partnerships
+passive	->	passive	passively	passivity
+perceive	->	perceive	perceived	perceives	perceiving	perception	perceptions
+percent	->	percent	percentage	percentages
+period	->	period	periodic	periodical	periodically	periodicals	periods
+persist	->	persist	persisted	persistence	persistent	persistently	persisting	persists
+perspective	->	perspective	perspectives
+phase	->	phase	phased	phases	phasing
+phenomenon	->	phenomenon	phenomena	phenomenal
+philosophy	->	philosophy	philosopher	philosophers	philosophical	philosophically	philosophies	philosophise	philosophised	philosophises	philosophising	philosophize	philosophized	philosophizes	philosophizing
+physical	->	physical	physically
+plus	->	plus	pluses
+policy	->	policy	policies
+portion	->	portion	portions
+pose	->	pose	posed	poses	posing
+positive	->	positive	positively
+potential	->	potential	potentially
+practitioner	->	practitioner	practitioners
+precede	->	precede	preceded	precedence	precedent	precedes	preceding	unprecedented
+precise	->	precise	imprecise	precisely	precision
+predict	->	predict	predictability	predictable	predictably	predicted	predicting	prediction	predictions	predicts	unpredictability	unpredictable
+predominant	->	predominant	predominance	predominantly	predominate	predominated	predominates	predominating
+preliminary	->	preliminary	preliminaries
+presume	->	presume	presumably	presumed	presumes	presuming	presumption	presumptions
+previous	->	previous	previously
+primary	->	primary	primarily
+prime	->	prime	primacy
+principal	->	principal	principally
+principle	->	principle	principled	principles	unprincipled
+prior	->	prior
+priority	->	priority	priorities	prioritisation	prioritise	prioritised	prioritises	prioritising	prioritization	prioritize	prioritized	prioritizes	prioritizing
+proceed	->	proceed	procedural	procedure	procedures	proceeded	proceeding	proceedings	proceeds
+process	->	process	processed	processes	processing
+professional	->	professional	professionally	professionals	professionalism
+prohibit	->	prohibit	prohibited	prohibiting	prohibition	prohibitions	prohibitive	prohibits
+project	->	project	projected	projecting	projection	projections	projects
+promote	->	promote	promoted	promoter	promoters	promotes	promoting	promotion	promotions
+proportion	->	proportion	disproportion	disproportionate	disproportionately	proportional	proportionally	proportionate	proportionately	proportions
+prospect	->	prospect	prospective	prospects
+protocol	->	protocol	protocols
+psychology	->	psychology	psychological	psychologically	psychologist	psychologists
+publication	->	publication	publications
+publish	->	publish	published	publisher	publishers	publishes	publishing	unpublished
+purchase	->	purchase	purchased	purchaser	purchasers	purchases	purchasing
+pursue	->	pursue	pursued	pursues	pursuing	pursuit	pursuits
+qualitative	->	qualitative	qualitatively
+quote	->	quote	quotation	quotations	quoted	quotes	quoting
+radical	->	radical	radically	radicals
+random	->	random	randomly	randomness
+range	->	range	ranged	ranges	ranging
+ratio	->	ratio	ratios
+rational	->	rational	irrational	rationalisation	rationalisations	rationalise	rationalised	rationalises	rationalising	rationalism	rationality	rationalization	rationalizations	rationalize	rationalized	rationalizes	rationally
+react	->	react	reacted	reacts	reacting	reaction	reactionaries	reactionary	reactions	reactive	reactivate	reactivation	reactor	reactors
+recover	->	recover	recoverable	recovered	recovering	recovers	recovery
+refine	->	refine	refined	refinement	refinements	refines	refining
+regime	->	regime	regimes
+region	->	region	regional	regionally	regions
+register	->	register	deregister	deregistered	deregistering	deregisters	deregistration	registered	registering	registers	registration
+regulate	->	regulate	deregulated	deregulates	deregulating	deregulation	regulated	regulates	regulating	regulation	regulations	regulator	regulators	regulatory	unregulated
+reinforce	->	reinforce	reinforced	reinforcement	reinforcements	reinforces	reinforcing
+reject	->	reject	rejected	rejecting	rejection	rejects	rejections
+relax	->	relax	relaxation	relaxed	relaxes	relaxing
+release	->	release	released	releases	releasing
+relevant	->	relevant	irrelevance	irrelevant	relevance
+reluctance	->	reluctance	reluctant	reluctantly
+rely	->	rely	reliability	reliable	reliably	reliance	reliant	relied	relies	relying	unreliable
+remove	->	remove	removable	removal	removals	removed	removes	removing
+require	->	require	required	requirement	requirements	requires	requiring
+research	->	research	researched	researcher	researchers	researches	researching
+reside	->	reside	resided	residence	resident	residential	residents	resides	residing
+resolve	->	resolve	resolution	resolved	resolves	resolving	unresolved
+resource	->	resource	resourced	resourceful	resources	resourcing	unresourceful	under-resourced
+respond	->	respond	responded	respondent	respondents	responding	responds	response	responses	responsive	responsiveness	unresponsive
+restore	->	restore	restoration	restored	restores	restoring
+restrain	->	restrain	restrained	restraining	restrains	restraint	restraints	unrestrained
+restrict	->	restrict	restricted	restricting	restriction	restrictions	restrictive	restrictively	restricts	unrestricted	unrestrictive
+retain	->	retain	retained	retaining	retainer	retainers	retains	retention	retentive
+reveal	->	reveal	revealed	revealing	reveals	revelation	revelations
+revenue	->	revenue	revenues
+reverse	->	reverse	reversal	reversed	reverses	reversible	reversing	reversals	irreversible
+revise	->	revise	revised	revises	revising	revision	revisions
+revolution	->	revolution	revolutionary	revolutionaries	revolutionise	revolutionised	revolutionises	revolutionising	revolutionist	revolutionists	revolutionize	revolutionized	revolutionizes	revolutionizing	revolutions
+rigid	->	rigid	rigidities	rigidity	rigidly
+role	->	role	roles
+route	->	route	routed	routes	routing
+scenario	->	scenario	scenarios
+schedule	->	schedule	reschedule	rescheduled	reschedules	rescheduling	scheduled	schedules	scheduling	unscheduled
+scheme	->	scheme	schematic	schematically	schemed	schemes	scheming
+scope	->	scope
+section	->	section	sectioned	sectioning	sections
+sector	->	sector	sectors
+secure	->	secure	insecure	insecurities	insecurity	secured	securely	secures	securing	securities	security
+seek	->	seek	seeking	seeks	sought
+select	->	select	selected	selecting	selection	selections	selective	selectively	selector	selectors	selects
+sequence	->	sequence	sequenced	sequences	sequencing	sequential	sequentially
+series	->	series
+sex	->	sex	sexes	sexism	sexual	sexuality	sexually
+shift	->	shift	shifted	shifting	shifts
+significant	->	significant	insignificant	insignificantly	significance	significantly	signified	signifies	signify	signifying
+similar	->	similar	dissimilar	similarities	similarity	similarly
+simulate	->	simulate	simulated	simulates	simulating	simulation
+site	->	site	sites
+so-called	->	so-called
+sole	->	sole	solely
+somewhat	->	somewhat
+source	->	source	sourced	sources	sourcing
+specific	->	specific	specifically	specification	specifications	specificity	specifics
+specify	->	specify	specifiable	specified	specifies	specifying	unspecified
+sphere	->	sphere	spheres	spherical	spherically
+stable	->	stable	instability	stabilisation	stabilise	stabilised	stabilises	stabilising	stabilization	stabilize	stabilized	stabilizes	stabilizing	stability	unstable
+statistic	->	statistic	statistician	statisticians	statistical	statistically	statistics
+status	->	status
+straightforward	->	straightforward
+strategy	->	strategy	strategic	strategies	strategically	strategist	strategists
+stress	->	stress	stressed	stresses	stressful	stressing	unstressed
+structure	->	structure	restructure	restructured	restructures	restructuring	structural	structurally	structured	structures	structuring	unstructured
+style	->	style	styled	styles	styling	stylish	stylise	stylised	stylises	stylising	stylize	stylized	stylizes	stylizing
+submit	->	submit	submission	submissions	submits	submitted	submitting
+subordinate	->	subordinate	subordinates	subordination
+subsequent	->	subsequent	subsequently
+subsidy	->	subsidy	subsidiary	subsidies	subsidise	subsidised	subsidises	subsidising	subsidize	subsidized	subsidizes	subsidizing
+substitute	->	substitute	substituted	substitutes	substituting	substitution
+successor	->	successor	succession	successions	successive	successively	successors
+sufficient	->	sufficient	sufficiency	insufficient	insufficiently	sufficiently
+sum	->	sum	summation	summed	summing	sums
+summary	->	summary	summaries	summarise	summarised	summarises	summarising	summarisation	summarisations	summarization	summarizations	summarize	summarized	summarizes	summarizing
+supplement	->	supplement	supplementary	supplemented	supplementing	supplements
+survey	->	survey	surveyed	surveying	surveys
+survive	->	survive	survival	survived	survives	surviving	survivor	survivors
+suspend	->	suspend	suspended	suspending	suspends	suspension
+sustain	->	sustain	sustainable	sustainability	sustained	sustaining	sustains	sustenance	unsustainable
+symbol	->	symbol	symbolic	symbolically	symbolise	symbolises	symbolised	symbolising	symbolism	symbolize	symbolized	symbolizes	symbolizing	symbols
+tape	->	tape	taped	tapes	taping
+target	->	target	targeted	targeting	targets
+task	->	task	tasks
+team	->	team	teamed	teaming	teams
+technical	->	technical	technically
+technique	->	technique	techniques
+technology	->	technology	technological	technologically
+temporary	->	temporary	temporarily
+tense	->	tense	tension	tensely	tenser	tensest	tensions
+terminate	->	terminate	terminal	terminals	terminated	terminates	terminating	termination	terminations
+text	->	text	texts	textual
+theme	->	theme	themes	thematic	thematically
+theory	->	theory	theoretical	theoretically	theories	theorist	theorists
+thereby	->	thereby
+thesis	->	thesis	theses
+topic	->	topic	topical	topics
+trace	->	trace	traceable	traced	traces	tracing
+tradition	->	tradition	non-traditional	traditional	traditionalist	traditionally	traditions
+transfer	->	transfer	transferable	transference	transferred	transferring	transfers
+transform	->	transform	transformation	transformations	transformed	transforming	transforms
+transit	->	transit	transited	transiting	transition	transitional	transitions	transitory	transits
+transmit	->	transmit	transmission	transmissions	transmitted	transmitting	transmits
+transport	->	transport	transportation	transported	transporter	transporters	transporting	transports
+trend	->	trend	trends
+trigger	->	trigger	triggered	triggering	triggers
+ultimate	->	ultimate	ultimately
+undergo	->	undergo	undergoes	undergoing	undergone	underwent
+underlie	->	underlie	underlay	underlies	underlying
+undertake	->	undertake	undertaken	undertakes	undertaking	undertook
+uniform	->	uniform	uniformity	uniformly
+unify	->	unify	unification	unified	unifies	unifying
+unique	->	unique	uniquely	uniqueness
+utilise	->	utilise	utilisation	utilised	utilises	utilising	utiliser	utilisers	utility	utilities	utilization	utilize	utilized	utilizes	utilizing
+valid	->	valid	invalidate	invalidity	validate	validated	validating	validation	validity	validly
+vary	->	vary	invariable	invariably	variability	variable	variables	variably	variance	variant	variants	variation	variations	varied	varies	varying
+vehicle	->	vehicle	vehicles
+version	->	version	versions
+via	->	via
+violate	->	violate	violated	violates	violating	violation	violations
+virtual	->	virtual	virtually
+visible	->	visible	visibility	visibly	invisible	invisibility
+vision	->	vision	visions
+visual	->	visual	visualise	visualised	visualising	visualisation	visualize	visualized	visualizing	visualization	visually
+volume	->	volume	volumes	vol
+voluntary	->	voluntary	voluntarily	volunteer	volunteering	volunteered	volunteers
+welfare	->	welfare
+whereas	->	whereas
+whereby	->	whereby
+widespread	->	widespread

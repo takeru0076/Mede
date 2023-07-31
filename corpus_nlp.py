@@ -81,9 +81,9 @@ def tag_corpus(dirname, ending = ".txt", tp = "upos", lemma = True, lower = True
 #	print(x.text,x.lemma_x.tag_,x.pos_,x.dep_)
 
 def count_pos(corpus, dir) :
-	pos = [0 for i in range(len(corpus))]
-	count = [0 for i in range(len(corpus))]
-	dict = {}	#counts pos pattern 
+	pos = [0 for i in range(len(corpus))]	#Create a List for each file(POS pattern).
+	count = [0 for i in range(len(corpus))]	#Create a List for each file(number of POS pattern).
+	dict = {}	#POS pattern
 	file_list = os.listdir(dir)
 
 	for num in range(len(corpus)) :
@@ -93,10 +93,12 @@ def count_pos(corpus, dir) :
 			pos_pattern = tuple(token.pos_ for token in doc)
 
 			if pos_pattern in dict:
-				dict[pos_pattern] += 1
+				dict[pos_pattern] += 1	#If the POS pattern is already in the dictionary, add +1
 			else:
-				dict[pos_pattern] = 1
+				dict[pos_pattern] = 1	#If the POS pattern is not in the dictionary, add a new one.
 		
+		#Make a List
+		#the number of POS patterns for each file.
 		pos[num] = [0 for j in range(len(dict))]
 		count[num] = [0 for j in range(len(dict))]
 		print(file_list[num] + ' :')
