@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Aug  9 06:22:09 2019
 
-@author: kkyle2
-"""
 #version .02 2019-8-9
 #includes a number of minor bug fixes
 import os
@@ -12,6 +8,9 @@ import glob
 import spacy #import spacy
 nlp = spacy.load("en_core_web_sm") #load the English model. This can be changed - just make sure that you download the appropriate model first
 
+'''
+copied from https://github.com/kristopherkyle/Corpus-Methods-Intro/blob/master/Python_Tutorial_7.md
+'''
 def tag(text,tp = "upos", lemma = True, lower = True, connect = "_",ignore = ["PUNCT","SPACE","SYM"]):
 	
 	#check to make sure a valid tag was chosen
@@ -49,9 +48,10 @@ def tag(text,tp = "upos", lemma = True, lower = True, connect = "_",ignore = ["P
 			text_list.append(tagged_token) #add to list
 		
 		return(text_list) #return text list
-		
-		
 
+'''
+copied from https://github.com/kristopherkyle/Corpus-Methods-Intro/blob/master/Python_Tutorial_7.md
+'''
 def tag_corpus(dirname, ending = ".txt", tp = "upos", lemma = True, lower = True, connect = "_",ignore = ["PUNCT","SPACE"]):
 	filenames = glob.glob(dirname + "/*" + ending) #gather all text names
 	master_corpus = [] #holder for total corpus
@@ -67,18 +67,6 @@ def tag_corpus(dirname, ending = ".txt", tp = "upos", lemma = True, lower = True
 		master_corpus.append(tag(raw_text,tp,lemma,lower,connect,ignore)) #add the tagged text to the master list
 	
 	return(master_corpus) #return list
-	
-
-#tag_corpus("small_sample")
-#sample = "This is a sample text.!?"
-#tag(sample)
-#tag(sample,tag="dep")
-#tag(sample, tag = "penn")
-#tag(sample,lemma = False)
-#
-#doc = nlp(sample)
-#for x in doc:
-#	print(x.text,x.lemma_x.tag_,x.pos_,x.dep_)
 
 def count_pos(corpus, dir) :
 	pos = [0 for i in range(len(corpus))]	#Create a List for each file(POS pattern).
@@ -90,6 +78,10 @@ def count_pos(corpus, dir) :
 		cnt = 0
 		for sentence in corpus[num]:
 			doc = nlp(sentence)
+			'''
+			"pos_pattern = tuple(token.pos_ for token in doc)" this code was copied from chatGPT
+			https://chat.openai.com/c/ed981557-3e41-4d83-b7a8-21f96c36c783
+			'''
 			pos_pattern = tuple(token.pos_ for token in doc)
 
 			if pos_pattern in dict:
