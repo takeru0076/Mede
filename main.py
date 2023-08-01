@@ -37,7 +37,7 @@ ct.write_corpus(name, name + "_lemmas",word_lemmatized)
 
 #tag the word corpus using default settings (lemmas and upos tags)
 #feature13
-word_upos = tg.tag_corpus(name) #this may take a while. Consider getting some coffee!
+word_upos = tg.tag_corpus(name) #feature13, this may take a while. Consider getting some coffee!
 print(len(word_upos)) #check to make sure that there are 500 files here! Otherwise, there is a problem with your directory name OR your working directory!
 
 upos_freq = ct.corpus_frequency(word_upos) #raw frequency
@@ -49,7 +49,7 @@ run_upos_collocates_mi = ct.collocator(word_upos,"run_VERB") #note that we have 
 #write tagged corpus files to a folder/directory entitled "word_single_tagged"
 ct.write_corpus(name ,name + "_tagged",word_upos)
 
-ct.display_string(word_lemmatized)#feature14
+ct.display_string(word_lemmatized)#feature14,feature15
 
 ct.search_pos(word_upos)#feature16
 
